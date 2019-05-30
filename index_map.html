@@ -43,11 +43,11 @@ div.tooltip {
 	width: 390px;
 }
 .mobileBoiler {
-	fill: #5798AF;
+	fill: #F24000;
 	fill-opacity: .7;
 }
 .oilTank {
-	fill: #E57A00;
+	fill: #1E979E;
 	fill-opacity: .7;
 }
 
@@ -61,11 +61,11 @@ div.tooltip {
 	<div id="map">
 		<div id="ui-container" class="ui" style="z-index: 401">		
 				  <h5>MOBILE BOILERS</h5>				  
-				  <span style="display:inline-block; background-color:#5798AF; padding:0px; margin:0px; height:13px; width:13px; overflow:hidden"><input type="checkbox" style="opacity:0.50;padding:0px;margin:0px" name="work_type" class="regular-checkbox" value="mobileBoilerWT" id="mobileBoilerWT" checked="true"/></span>
+				  <span style="display:inline-block; background-color:#F24000; padding:0px; margin:0px; height:13px; width:13px; overflow:hidden"><input type="checkbox" style="opacity:0.50;padding:0px;margin:0px" name="work_type" class="regular-checkbox" value="mobileBoilerWT" id="mobileBoilerWT" checked="true"/></span>
 					<label for="mobileBoilerWT"></label><span class="en">TEMPORARY DOB REGISTERED OIL FIRED MOBILE BOILER</span>
 				  <br/>
 				  
-				  <span style="display:inline-block; background-color:#E57A00; padding:0px; margin:0px; height:13px; width:13px; overflow:hidden"><input type="checkbox" style="opacity:0.50;padding:0px;margin:0px" name="work_type" class="regular-checkbox" value="oilTankWT" id="oilTankWT" checked="true"/></span>
+				  <span style="display:inline-block; background-color:#1E979E; padding:0px; margin:0px; height:13px; width:13px; overflow:hidden"><input type="checkbox" style="opacity:0.50;padding:0px;margin:0px" name="work_type" class="regular-checkbox" value="oilTankWT" id="oilTankWT" checked="true"/></span>
 					<label for="oilTankWT"></label><span class="en">TEMPORARY OIL TANK (ABOVE GROUND)</span>
 				  <br/>
 		</div>
@@ -81,7 +81,7 @@ div.tooltip {
 <script>
 
 var map = L.map('map').setView([40.712824, -74.005999], 11);
-L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.png', {attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png', {attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
 var tooltip = d3.select('body').append('div')
 	.on('mouseover', function(d, i){
 		tooltip.transition().duration(0);
