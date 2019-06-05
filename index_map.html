@@ -215,7 +215,7 @@ function init(){
 		})
 		.on("mouseout", function(d, i){			
 			$(this).attr("style", "stroke-width: 0px; fill-opacity: .7;");
-			return tooltip.transition().delay(500).style("visibility", "hidden"); 
+			return tooltip.transition().delay(1000).style("visibility", "hidden"); 
 		});
 		pointsUpd.attr('r', 5 / proj.scale);
 });
