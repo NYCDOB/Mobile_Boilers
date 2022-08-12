@@ -13007,6 +13007,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Q00791824-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2022/8/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4440150",
+	"Address": "78-10 147 STREET",
+	"CommunityBoardNumber": "408",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.8171463,
+	"Latitude": 40.7199898
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Q00781449-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/7/26 12:00:00",
