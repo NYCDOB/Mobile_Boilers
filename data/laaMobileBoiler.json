@@ -17123,6 +17123,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M08010596-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2022/9/27 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1008211",
+	"Address": "628 BROADWAY",
+	"CommunityBoardNumber": "102",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9957886,
+	"Latitude": 40.7259102
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "I1",
 	"Created On Date": "2018/11/23 12:00:00",
