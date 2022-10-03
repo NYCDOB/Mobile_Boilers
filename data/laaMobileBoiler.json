@@ -7605,20 +7605,6 @@
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "I1",
-	"Created On Date": "2021/12/2 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "4115790",
-	"Address": "137-05 FRANKLIN AVENUE",
-	"CommunityBoardNumber": "407",
-	"LocationBoroughName": "QUEENS",
-	"Longitude": -73.8270035,
-	"Latitude": 40.7549515
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
 	"Created On Date": "2022/1/28 12:00:00",
 	"Work Type Name": "Oil Work",
 	"Filing Type Name": "New Job Filing",
@@ -8818,6 +8804,20 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.8366776,
 	"Latitude": 40.7160988
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Q00640648-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2021/12/2 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4115790",
+	"Address": "137-05 FRANKLIN AVENUE",
+	"CommunityBoardNumber": "407",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.8270035,
+	"Latitude": 40.7549515
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
