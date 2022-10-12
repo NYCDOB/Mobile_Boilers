@@ -696,8 +696,8 @@
 	"Address": "10 LEWIS AVENUE",
 	"CommunityBoardNumber": "303",
 	"LocationBoroughName": "BROOKLYN",
-	"Longitude": -73.9394684,
-	"Latitude": 40.6976013
+	"Longitude": -73.9394073,
+	"Latitude": 40.6976089
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -1102,8 +1102,8 @@
 	"Address": "339 WILSON AVENUE",
 	"CommunityBoardNumber": "304",
 	"LocationBoroughName": "BROOKLYN",
-	"Longitude": -73.9167099,
-	"Latitude": 40.6967316
+	"Longitude": -73.916687,
+	"Latitude": 40.6967888
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -1382,8 +1382,8 @@
 	"Address": "371 JOHNSON AVENUE",
 	"CommunityBoardNumber": "301",
 	"LocationBoroughName": "BROOKLYN",
-	"Longitude": -73.9357224,
-	"Latitude": 40.7075005
+	"Longitude": -73.9352264,
+	"Latitude": 40.7077484
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -2152,8 +2152,8 @@
 	"Address": "339 WILSON AVENUE",
 	"CommunityBoardNumber": "304",
 	"LocationBoroughName": "BROOKLYN",
-	"Longitude": -73.9167099,
-	"Latitude": 40.6967316
+	"Longitude": -73.916687,
+	"Latitude": 40.6967888
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -2210,6 +2210,20 @@
 	"LocationBoroughName": "BROOKLYN",
 	"Longitude": -73.9576263,
 	"Latitude": 40.6402397
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B08019199-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2022/10/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3025486",
+	"Address": "636 3 STREET",
+	"CommunityBoardNumber": "306",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9742737,
+	"Latitude": 40.6681595
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -3020,8 +3034,8 @@
 	"Address": "3041 BROADWAY",
 	"CommunityBoardNumber": "109",
 	"LocationBoroughName": "MANHATTAN",
-	"Longitude": -73.9621429,
-	"Latitude": 40.8114204
+	"Longitude": -73.9621506,
+	"Latitude": 40.8113594
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -7906,8 +7920,8 @@
 	"Address": "55-15 GRAND AVENUE",
 	"CommunityBoardNumber": "405",
 	"LocationBoroughName": "QUEENS",
-	"Longitude": -73.9142227,
-	"Latitude": 40.7198601
+	"Longitude": -73.9141464,
+	"Latitude": 40.719841
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -8690,8 +8704,8 @@
 	"Address": "108-53 62 DRIVE",
 	"CommunityBoardNumber": "406",
 	"LocationBoroughName": "QUEENS",
-	"Longitude": -73.8498001,
-	"Latitude": 40.7367592
+	"Longitude": -73.849762,
+	"Latitude": 40.7368393
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -11980,8 +11994,8 @@
 	"Address": "276 GRAND CONCOURSE",
 	"CommunityBoardNumber": "201",
 	"LocationBoroughName": "BRONX",
-	"Longitude": -73.9288788,
-	"Latitude": 40.8138885
+	"Longitude": -73.928978,
+	"Latitude": 40.8137894
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -12834,8 +12848,8 @@
 	"Address": "3041 BROADWAY",
 	"CommunityBoardNumber": "109",
 	"LocationBoroughName": "MANHATTAN",
-	"Longitude": -73.9621429,
-	"Latitude": 40.8114204
+	"Longitude": -73.9621506,
+	"Latitude": 40.8113594
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -15732,8 +15746,8 @@
 	"Address": "3041 BROADWAY",
 	"CommunityBoardNumber": "109",
 	"LocationBoroughName": "MANHATTAN",
-	"Longitude": -73.9621429,
-	"Latitude": 40.8114204
+	"Longitude": -73.9621506,
+	"Latitude": 40.8113594
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
@@ -18042,8 +18056,8 @@
 	"Address": "108-53 62 DRIVE",
 	"CommunityBoardNumber": "406",
 	"LocationBoroughName": "QUEENS",
-	"Longitude": -73.8498001,
-	"Latitude": 40.7367592
+	"Longitude": -73.849762,
+	"Latitude": 40.7368393
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
