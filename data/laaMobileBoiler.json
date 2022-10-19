@@ -7407,6 +7407,34 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M08022687-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2022/10/18 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1014653",
+	"Address": "121 WEST   17 STREET",
+	"CommunityBoardNumber": "104",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9963684,
+	"Latitude": 40.7398987
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M08023254-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2022/10/18 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1060906",
+	"Address": "574 ST NICHOLAS AVENUE",
+	"CommunityBoardNumber": "110",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9465027,
+	"Latitude": 40.819561
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "I1",
 	"Created On Date": "2018/11/4 12:00:00",
@@ -9437,6 +9465,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Q08023217-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2022/10/18 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4530220",
+	"Address": "70-89 PARK DRIVE EAST",
+	"CommunityBoardNumber": "408",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.8294601,
+	"Latitude": 40.7267609
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "S00122100-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2019/1/22 12:00:00",
@@ -9616,6 +9658,20 @@
 	"LocationBoroughName": "STATEN ISLAND",
 	"Longitude": -74.2290497,
 	"Latitude": 40.5518913
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "S08022675-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2022/10/18 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "5001150",
+	"Address": "55 LAYTON AVENUE",
+	"CommunityBoardNumber": "501",
+	"LocationBoroughName": "STATEN ISLAND",
+	"Longitude": -74.0854568,
+	"Latitude": 40.6420288
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
