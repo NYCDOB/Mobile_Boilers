@@ -2227,6 +2227,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B08024482-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2022/10/20 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3246887",
+	"Address": "1516 ORIENTAL BOULEVARD",
+	"CommunityBoardNumber": "315",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9383087,
+	"Latitude": 40.5761909
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M00087893-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2018/10/15 12:00:00",
@@ -15356,6 +15370,20 @@
 	"LocationBoroughName": "BROOKLYN",
 	"Longitude": -73.9638901,
 	"Latitude": 40.691021
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "B08024482-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2022/10/20 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3246887",
+	"Address": "1516 ORIENTAL BOULEVARD",
+	"CommunityBoardNumber": "315",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9383087,
+	"Latitude": 40.5761909
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
