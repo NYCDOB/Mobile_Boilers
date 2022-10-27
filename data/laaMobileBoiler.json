@@ -7968,6 +7968,20 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2022/10/26 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3196929",
+	"Address": "1970 EAST   18 STREET",
+	"CommunityBoardNumber": "315",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9543991,
+	"Latitude": 40.6021004
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "S1",
 	"Created On Date": "2021/7/21 12:00:00",
 	"Work Type Name": "Oil Work",
