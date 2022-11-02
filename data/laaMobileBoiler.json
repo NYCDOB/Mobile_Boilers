@@ -20064,6 +20064,20 @@
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2022/11/1 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "3045367",
+	"Address": "357 MARCUS GARVEY BOULEVARD",
+	"CommunityBoardNumber": "303",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9372787,
+	"Latitude": 40.6851196
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "",
 	"FilingNumber": "P2",
 	"Created On Date": "2021/11/10 12:00:00",
 	"Work Type Name": "Oil Work",
