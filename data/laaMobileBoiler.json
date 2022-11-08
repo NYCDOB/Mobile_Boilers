@@ -40,19 +40,5 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9846878,
 	"Latitude": 40.7372093
- },
- {
-	"Item Type Name": "Temporary Oil Tank (above ground)",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "1081956",
-	"Address": "99 CANAL STREET",
-	"CommunityBoardNumber": "103",
-	"LocationBoroughName": "MANHATTAN",
-	"Longitude": -73.9939499,
-	"Latitude": 40.7156982
  }
 ]
