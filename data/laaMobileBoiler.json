@@ -8164,20 +8164,6 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2022/11/18 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "2015157",
-	"Address": "2575 SEDGWICK AVENUE",
-	"CommunityBoardNumber": "207",
-	"LocationBoroughName": "BRONX",
-	"Longitude": -73.9069977,
-	"Latitude": 40.8683815
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "S1",
 	"Created On Date": "2021/7/21 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -12766,6 +12752,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.8962402,
 	"Latitude": 40.8559303
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X08042391-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2022/11/18 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2015157",
+	"Address": "2575 SEDGWICK AVENUE",
+	"CommunityBoardNumber": "207",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.9069977,
+	"Latitude": 40.8683815
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
