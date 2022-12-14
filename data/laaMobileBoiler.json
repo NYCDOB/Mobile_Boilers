@@ -2269,6 +2269,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B08036007-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2022/11/7 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3326830",
+	"Address": "5100 AVENUE U",
+	"CommunityBoardNumber": "318",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9195175,
+	"Latitude": 40.6097183
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08038551-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/11/11 12:00:00",
@@ -8258,20 +8272,6 @@
 	"LocationBoroughName": "BROOKLYN",
 	"Longitude": -73.9490738,
 	"Latitude": 40.6434593
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2022/11/7 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "3326830",
-	"Address": "5100 AVENUE U",
-	"CommunityBoardNumber": "318",
-	"LocationBoroughName": "BROOKLYN",
-	"Longitude": -73.9195175,
-	"Latitude": 40.6097183
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
