@@ -10207,6 +10207,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "S00804973-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2022/12/28 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "5000083",
+	"Address": "100 STUYVESANT PLACE",
+	"CommunityBoardNumber": "501",
+	"LocationBoroughName": "STATEN ISLAND",
+	"Longitude": -74.0779572,
+	"Latitude": 40.6436691
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "S08022675-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/10/18 12:00:00",
@@ -14950,6 +14964,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9549866,
 	"Latitude": 40.7807007
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2022/12/28 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "1060067",
+	"Address": "100 WEST  141 STREET",
+	"CommunityBoardNumber": "110",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9386368,
+	"Latitude": 40.8178787
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
