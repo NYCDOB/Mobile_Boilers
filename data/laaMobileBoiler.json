@@ -7505,6 +7505,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00811381-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/1/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1008830",
+	"Address": "284 MERCER STREET",
+	"CommunityBoardNumber": "102",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9942474,
+	"Latitude": 40.7294998
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -18425,6 +18439,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M00811381-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/1/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1008830",
+	"Address": "284 MERCER STREET",
+	"CommunityBoardNumber": "102",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9942474,
+	"Latitude": 40.7294998
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "M08006838-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -18688,20 +18716,6 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9640808,
 	"Latitude": 40.7643394
- },
- {
-	"Item Type Name": "Temporary Oil Tank (above ground)",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2023/1/10 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "2015404",
-	"Address": "2825 WEBB AVENUE",
-	"CommunityBoardNumber": "208",
-	"LocationBoroughName": "BRONX",
-	"Longitude": -73.9011612,
-	"Latitude": 40.872551
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
@@ -20396,6 +20410,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.8853302,
 	"Latitude": 40.8616295
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "X00810858-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/1/10 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2015404",
+	"Address": "2825 WEBB AVENUE",
+	"CommunityBoardNumber": "208",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.9011612,
+	"Latitude": 40.872551
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
