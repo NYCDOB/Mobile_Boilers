@@ -2129,6 +2129,34 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B00812387-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/1/13 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3145633",
+	"Address": "237 OVINGTON AVENUE",
+	"CommunityBoardNumber": "310",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -74.0276337,
+	"Latitude": 40.6354599
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B00812688-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/1/13 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3034161",
+	"Address": "240 CROWN STREET",
+	"CommunityBoardNumber": "309",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9527435,
+	"Latitude": 40.6660995
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -18481,6 +18509,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M00812308-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/1/12 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1005203",
+	"Address": "500 EAST   13 STREET",
+	"CommunityBoardNumber": "103",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9806519,
+	"Latitude": 40.7295113
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "M08006838-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -18744,20 +18786,6 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9640808,
 	"Latitude": 40.7643394
- },
- {
-	"Item Type Name": "Temporary Oil Tank (above ground)",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2023/1/12 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "1005203",
-	"Address": "500 EAST   13 STREET",
-	"CommunityBoardNumber": "103",
-	"LocationBoroughName": "MANHATTAN",
-	"Longitude": -73.9806519,
-	"Latitude": 40.7295113
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
