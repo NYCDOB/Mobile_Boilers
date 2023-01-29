@@ -18873,6 +18873,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/1/27 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4208858",
+	"Address": "89-25 PARSONS BOULEVARD",
+	"CommunityBoardNumber": "412",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.800827,
+	"Latitude": 40.7051506
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "Q00091863-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2018/10/24 12:00:00",
