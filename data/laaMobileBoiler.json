@@ -18747,6 +18747,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M00826529-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/2/9 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1061051",
+	"Address": "666 ST NICHOLAS AVENUE",
+	"CommunityBoardNumber": "109",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9450836,
+	"Latitude": 40.8226204
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "M08006838-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
