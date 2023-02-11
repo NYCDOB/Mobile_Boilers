@@ -8599,20 +8599,6 @@
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "I1",
-	"Created On Date": "2023/1/6 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "4161735",
-	"Address": "57-00 223 STREET",
-	"CommunityBoardNumber": "411",
-	"LocationBoroughName": "QUEENS",
-	"Longitude": -73.7574005,
-	"Latitude": 40.7522697
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
 	"Created On Date": "2023/1/12 12:00:00",
 	"Work Type Name": "Oil Work",
 	"Filing Type Name": "New Job Filing",
@@ -10246,6 +10232,20 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.8168716,
 	"Latitude": 40.755619
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Q00809136-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/1/6 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4161735",
+	"Address": "57-00 223 STREET",
+	"CommunityBoardNumber": "411",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.7574005,
+	"Latitude": 40.7522697
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
