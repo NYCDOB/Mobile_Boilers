@@ -7645,6 +7645,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00823340-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/2/3 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1054336",
+	"Address": "16 EAST  132 STREET",
+	"CommunityBoardNumber": "111",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.938118,
+	"Latitude": 40.8101997
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M00824567-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2023/2/6 12:00:00",
@@ -7684,6 +7698,34 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -74.0016937,
 	"Latitude": 40.7269211
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00831261-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/2/17 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1086225",
+	"Address": "780 8 AVENUE",
+	"CommunityBoardNumber": "105",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9869995,
+	"Latitude": 40.7605095
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00831433-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/2/17 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1081366",
+	"Address": "315 EAST  113 STREET",
+	"CommunityBoardNumber": "111",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9384232,
+	"Latitude": 40.7949982
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -8650,20 +8692,6 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9406433,
 	"Latitude": 40.8291206
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2023/2/3 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "1054336",
-	"Address": "16 EAST  132 STREET",
-	"CommunityBoardNumber": "111",
-	"LocationBoroughName": "MANHATTAN",
-	"Longitude": -73.938118,
-	"Latitude": 40.8101997
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
