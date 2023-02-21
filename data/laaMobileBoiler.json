@@ -2171,6 +2171,34 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B00824521-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/2/6 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3324228",
+	"Address": "207 PROSPECT PARK SOUTH WEST",
+	"CommunityBoardNumber": "307",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9730682,
+	"Latitude": 40.65205
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B00831937-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/2/20 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3117147",
+	"Address": "280 EAST   21 STREET",
+	"CommunityBoardNumber": "314",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9597092,
+	"Latitude": 40.6476898
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -8706,20 +8734,6 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.982193,
 	"Latitude": 40.7816391
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2023/2/6 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "3324228",
-	"Address": "207 PROSPECT PARK SOUTH WEST",
-	"CommunityBoardNumber": "307",
-	"LocationBoroughName": "BROOKLYN",
-	"Longitude": -73.9730682,
-	"Latitude": 40.65205
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
