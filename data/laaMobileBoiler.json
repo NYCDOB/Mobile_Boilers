@@ -2199,6 +2199,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B00834385-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/2/23 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3172747",
+	"Address": "1397 EAST    2 STREET",
+	"CommunityBoardNumber": "312",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9728699,
+	"Latitude": 40.6155891
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
