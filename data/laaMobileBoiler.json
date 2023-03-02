@@ -13427,6 +13427,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X00837176-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/3/1 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2012736",
+	"Address": "2160 CLINTON AVENUE",
+	"CommunityBoardNumber": "206",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.8859329,
+	"Latitude": 40.8492889
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X07993827-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/25 12:00:00",
@@ -15608,6 +15622,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9947662,
 	"Latitude": 40.7297783
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2023/2/28 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "1008820",
+	"Address": "31 WASHINGTON PLACE",
+	"CommunityBoardNumber": "102",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9955978,
+	"Latitude": 40.7303391
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -21628,6 +21656,20 @@
 	"LocationBoroughName": "BROOKLYN",
 	"Longitude": -73.9263229,
 	"Latitude": 40.7090797
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2023/2/28 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "1008820",
+	"Address": "31 WASHINGTON PLACE",
+	"CommunityBoardNumber": "102",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9955978,
+	"Latitude": 40.7303391
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
