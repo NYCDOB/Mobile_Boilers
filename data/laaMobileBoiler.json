@@ -7785,6 +7785,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00837717-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/3/2 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1062307",
+	"Address": "626 RIVERSIDE DRIVE",
+	"CommunityBoardNumber": "109",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9544373,
+	"Latitude": 40.8235512
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -8790,20 +8804,6 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.7839966,
 	"Latitude": 40.760231
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2023/3/2 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "1062307",
-	"Address": "626 RIVERSIDE DRIVE",
-	"CommunityBoardNumber": "109",
-	"LocationBoroughName": "MANHATTAN",
-	"Longitude": -73.9544373,
-	"Latitude": 40.8235512
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
