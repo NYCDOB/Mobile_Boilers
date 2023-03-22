@@ -7729,6 +7729,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00824224-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/2/6 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1030836",
+	"Address": "245 WEST   75 STREET",
+	"CommunityBoardNumber": "107",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.982193,
+	"Latitude": 40.7816391
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M00824567-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2023/2/6 12:00:00",
@@ -7824,6 +7838,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9403381,
 	"Latitude": 40.8215294
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00846948-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/3/21 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1063376",
+	"Address": "130 FT WASHINGTON AVENUE",
+	"CommunityBoardNumber": "112",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9428864,
+	"Latitude": 40.8397217
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -8776,20 +8804,6 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9406433,
 	"Latitude": 40.8291206
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2023/2/6 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "1030836",
-	"Address": "245 WEST   75 STREET",
-	"CommunityBoardNumber": "107",
-	"LocationBoroughName": "MANHATTAN",
-	"Longitude": -73.982193,
-	"Latitude": 40.7816391
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -15734,6 +15748,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9955978,
 	"Latitude": 40.7303391
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2023/3/21 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "3063012",
+	"Address": "231 SOUTH    2 STREET",
+	"CommunityBoardNumber": "301",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9582825,
+	"Latitude": 40.7121201
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
