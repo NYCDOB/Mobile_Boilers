@@ -13581,6 +13581,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X00851171-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/3/28 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2114611",
+	"Address": "488 EAST  164 STREET",
+	"CommunityBoardNumber": "203",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.9094086,
+	"Latitude": 40.8254204
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X07993827-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/25 12:00:00",
@@ -15790,6 +15804,20 @@
 	"LocationBoroughName": "BROOKLYN",
 	"Longitude": -73.9582825,
 	"Latitude": 40.7121201
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2023/3/28 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "1033742",
+	"Address": "433 WEST END AVENUE",
+	"CommunityBoardNumber": "107",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9806366,
+	"Latitude": 40.7855797
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
