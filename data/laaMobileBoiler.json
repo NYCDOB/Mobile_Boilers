@@ -8934,6 +8934,20 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/4/5 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2092221",
+	"Address": "2072 BATHGATE AVENUE",
+	"CommunityBoardNumber": "206",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.8948364,
+	"Latitude": 40.8505402
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "S1",
 	"Created On Date": "2021/7/21 12:00:00",
 	"Work Type Name": "Oil Work",
