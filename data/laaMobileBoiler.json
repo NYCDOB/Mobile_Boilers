@@ -2269,6 +2269,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B00859880-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/4/14 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3426346",
+	"Address": "50 BRIDGE PARK DRIVE",
+	"CommunityBoardNumber": "302",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -74.0006866,
+	"Latitude": 40.6928291
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -15986,6 +16000,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9806366,
 	"Latitude": 40.7855797
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2023/4/14 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "5048706",
+	"Address": "88 OLD TOWN ROAD",
+	"CommunityBoardNumber": "502",
+	"LocationBoroughName": "STATEN ISLAND",
+	"Longitude": -74.0906067,
+	"Latitude": 40.5955696
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
