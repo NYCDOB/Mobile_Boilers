@@ -19377,6 +19377,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M00860446-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/4/17 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1041206",
+	"Address": "17 EAST   67 STREET",
+	"CommunityBoardNumber": "108",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9680481,
+	"Latitude": 40.7689705
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "M08006838-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
