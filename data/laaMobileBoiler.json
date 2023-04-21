@@ -8009,6 +8009,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00862163-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/4/19 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1076237",
+	"Address": "105 WEST   77 STREET",
+	"CommunityBoardNumber": "107",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9767303,
+	"Latitude": 40.7809906
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -13802,6 +13816,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.9174728,
 	"Latitude": 40.8485603
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X00861781-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/4/19 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2008878",
+	"Address": "1630 UNDERCLIFF AVENUE",
+	"CommunityBoardNumber": "205",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.9218063,
+	"Latitude": 40.8489609
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
