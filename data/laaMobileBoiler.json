@@ -8023,6 +8023,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00863880-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/4/24 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1072696",
+	"Address": "530 EAST   76 STREET",
+	"CommunityBoardNumber": "108",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9500885,
+	"Latitude": 40.7681885
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -8874,20 +8888,6 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.9094086,
 	"Latitude": 40.8254204
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2022/10/17 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "2041247",
-	"Address": "1560 PURDY STREET",
-	"CommunityBoardNumber": "209",
-	"LocationBoroughName": "BRONX",
-	"Longitude": -73.8532028,
-	"Latitude": 40.8387604
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -13931,6 +13931,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X08022514-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2022/10/17 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2041247",
+	"Address": "1560 PURDY STREET",
+	"CommunityBoardNumber": "209",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.8532028,
+	"Latitude": 40.8387604
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X08027168-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/10/25 12:00:00",
@@ -17218,6 +17232,20 @@
 	"LocationBoroughName": "BROOKLYN",
 	"Longitude": -73.9638901,
 	"Latitude": 40.691021
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "B00864471-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/4/24 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3070584",
+	"Address": "521 JOHNSON AVENUE",
+	"CommunityBoardNumber": "301",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9263229,
+	"Latitude": 40.7090797
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
