@@ -8976,34 +8976,6 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2023/4/11 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "5113454",
-	"Address": "1 CAMPUS ROAD",
-	"CommunityBoardNumber": "501",
-	"LocationBoroughName": "STATEN ISLAND",
-	"Longitude": -74.0932693,
-	"Latitude": 40.6182709
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2023/4/21 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "2009005",
-	"Address": "1683 UNIVERSITY AVENUE",
-	"CommunityBoardNumber": "205",
-	"LocationBoroughName": "BRONX",
-	"Longitude": -73.9180069,
-	"Latitude": 40.8491211
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "S1",
 	"Created On Date": "2021/7/21 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -10974,6 +10946,20 @@
 	"LocationBoroughName": "STATEN ISLAND",
 	"Longitude": -74.0906067,
 	"Latitude": 40.5955696
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "S00857974-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/4/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "5113454",
+	"Address": "1 CAMPUS ROAD",
+	"CommunityBoardNumber": "501",
+	"LocationBoroughName": "STATEN ISLAND",
+	"Longitude": -74.0932693,
+	"Latitude": 40.6182709
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -13844,6 +13830,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.9218063,
 	"Latitude": 40.8489609
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X00863217-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/4/21 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2009005",
+	"Address": "1683 UNIVERSITY AVENUE",
+	"CommunityBoardNumber": "205",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.9180069,
+	"Latitude": 40.8491211
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -21474,6 +21474,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.9011612,
 	"Latitude": 40.872551
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "X00864904-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/4/25 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2102035",
+	"Address": "499 EAST FORDHAM ROAD",
+	"CommunityBoardNumber": "206",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.8853302,
+	"Latitude": 40.8616295
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
