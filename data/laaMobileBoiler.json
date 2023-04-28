@@ -19503,6 +19503,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M00866056-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/4/27 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1059595",
+	"Address": "411 WEST  128 STREET",
+	"CommunityBoardNumber": "109",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9521713,
+	"Latitude": 40.8133507
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "M08006838-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
