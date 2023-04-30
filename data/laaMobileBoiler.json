@@ -8990,6 +8990,20 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/4/28 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1079988",
+	"Address": "180 CABRINI BOULEVARD",
+	"CommunityBoardNumber": "112",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9400635,
+	"Latitude": 40.8534012
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "S1",
 	"Created On Date": "2021/7/21 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -19514,6 +19528,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9521713,
 	"Latitude": 40.8133507
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M00867276-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/4/28 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1079215",
+	"Address": "280 BROADWAY",
+	"CommunityBoardNumber": "101",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -74.0056534,
+	"Latitude": 40.7142296
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
