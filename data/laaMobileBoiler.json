@@ -8051,6 +8051,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00867105-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/4/28 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1079988",
+	"Address": "180 CABRINI BOULEVARD",
+	"CommunityBoardNumber": "112",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9400635,
+	"Latitude": 40.8534012
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -8986,20 +9000,6 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -74.0066071,
 	"Latitude": 40.7374115
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2023/4/28 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "1079988",
-	"Address": "180 CABRINI BOULEVARD",
-	"CommunityBoardNumber": "112",
-	"LocationBoroughName": "MANHATTAN",
-	"Longitude": -73.9400635,
-	"Latitude": 40.8534012
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -19545,6 +19545,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M00867620-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/5/1 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1050555",
+	"Address": "444 EAST   87 STREET",
+	"CommunityBoardNumber": "108",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9473267,
+	"Latitude": 40.7766495
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "M08006838-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -20564,6 +20578,20 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.7956238,
 	"Latitude": 40.6999283
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "Q00868033-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/5/1 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4458024",
+	"Address": "4500 PARSONS BOULEVARD",
+	"CommunityBoardNumber": "407",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.8168716,
+	"Latitude": 40.755619
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
