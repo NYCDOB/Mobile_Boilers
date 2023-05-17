@@ -9061,15 +9061,15 @@
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "I1",
-	"Created On Date": "2023/5/15 12:00:00",
+	"Created On Date": "2023/5/16 12:00:00",
 	"Work Type Name": "Oil Work",
 	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "4112563",
-	"Address": "33-24 PARSONS BOULEVARD",
-	"CommunityBoardNumber": "407",
-	"LocationBoroughName": "QUEENS",
-	"Longitude": -73.8245468,
-	"Latitude": 40.7674103
+	"LocationBIN": "1062731",
+	"Address": "540 WEST  158 STREET",
+	"CommunityBoardNumber": "112",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9435272,
+	"Latitude": 40.8340607
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -10736,6 +10736,20 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.7591705,
 	"Latitude": 40.7414818
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Q00874828-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/5/15 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4112563",
+	"Address": "33-24 PARSONS BOULEVARD",
+	"CommunityBoardNumber": "407",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.8245468,
+	"Latitude": 40.7674103
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
