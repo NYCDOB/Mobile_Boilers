@@ -7757,6 +7757,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00811937-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/1/12 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1052579",
+	"Address": "239 EAST  116 STREET",
+	"CommunityBoardNumber": "111",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9382935,
+	"Latitude": 40.7975311
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M00813133-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2023/1/16 12:00:00",
@@ -9075,20 +9089,6 @@
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "I1",
-	"Created On Date": "2023/1/12 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "1052579",
-	"Address": "239 EAST  116 STREET",
-	"CommunityBoardNumber": "111",
-	"LocationBoroughName": "MANHATTAN",
-	"Longitude": -73.9382935,
-	"Latitude": 40.7975311
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
 	"Created On Date": "2023/1/24 12:00:00",
 	"Work Type Name": "Oil Work",
 	"Filing Type Name": "New Job Filing",
@@ -9112,6 +9112,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -74.0066071,
 	"Latitude": 40.7374115
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/6/5 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2017603",
+	"Address": "2877 GRAND CONCOURSE",
+	"CommunityBoardNumber": "207",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.8902664,
+	"Latitude": 40.8710899
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -16322,6 +16336,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9371567,
 	"Latitude": 40.7997208
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2023/6/5 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "5113454",
+	"Address": "1 CAMPUS ROAD",
+	"CommunityBoardNumber": "501",
+	"LocationBoroughName": "STATEN ISLAND",
+	"Longitude": -74.0932693,
+	"Latitude": 40.6182709
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
