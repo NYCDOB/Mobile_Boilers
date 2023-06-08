@@ -9158,6 +9158,20 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/6/7 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3338597",
+	"Address": "991 MYRTLE AVENUE",
+	"CommunityBoardNumber": "303",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9420395,
+	"Latitude": 40.6972198
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "S1",
 	"Created On Date": "2021/7/21 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -16464,6 +16478,20 @@
 	"Latitude": 40.6803513
  },
  {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P2",
+	"Created On Date": "2023/6/7 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "5048706",
+	"Address": "88 OLD TOWN ROAD",
+	"CommunityBoardNumber": "502",
+	"LocationBoroughName": "STATEN ISLAND",
+	"Longitude": -74.0906067,
+	"Latitude": 40.5955696
+ },
+ {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "B00089286-I1-LA",
 	"FilingNumber": "I1",
@@ -22552,5 +22580,19 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.985733,
 	"Latitude": 40.7460518
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P2",
+	"Created On Date": "2023/6/7 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "5048706",
+	"Address": "88 OLD TOWN ROAD",
+	"CommunityBoardNumber": "502",
+	"LocationBoroughName": "STATEN ISLAND",
+	"Longitude": -74.0906067,
+	"Latitude": 40.5955696
  }
 ]
