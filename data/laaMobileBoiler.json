@@ -9145,20 +9145,6 @@
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "I1",
-	"Created On Date": "2023/6/5 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "2017603",
-	"Address": "2877 GRAND CONCOURSE",
-	"CommunityBoardNumber": "207",
-	"LocationBoroughName": "BRONX",
-	"Longitude": -73.8902664,
-	"Latitude": 40.8710899
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
 	"Created On Date": "2023/6/7 12:00:00",
 	"Work Type Name": "Oil Work",
 	"Filing Type Name": "New Job Filing",
@@ -14110,6 +14096,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.8926392,
 	"Latitude": 40.8527985
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X00885055-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/6/5 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2017603",
+	"Address": "2877 GRAND CONCOURSE",
+	"CommunityBoardNumber": "207",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.8902664,
+	"Latitude": 40.8710899
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
