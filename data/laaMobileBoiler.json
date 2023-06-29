@@ -8261,6 +8261,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00897158-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/6/28 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1033305",
+	"Address": "590 WEST END AVENUE",
+	"CommunityBoardNumber": "107",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9762802,
+	"Latitude": 40.7904892
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
