@@ -8289,6 +8289,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00903506-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/7/12 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1064378",
+	"Address": "350 CABRINI BOULEVARD",
+	"CommunityBoardNumber": "112",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9375381,
+	"Latitude": 40.8567085
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -9210,6 +9224,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -74.0066071,
 	"Latitude": 40.7374115
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/7/12 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3037262",
+	"Address": "1188 LINCOLN PLACE",
+	"CommunityBoardNumber": "308",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9372864,
+	"Latitude": 40.669899
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -10890,6 +10918,20 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.8245468,
 	"Latitude": 40.7674103
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Q00903109-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/7/12 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4114717",
+	"Address": "144-44 41 AVENUE",
+	"CommunityBoardNumber": "407",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.8198166,
+	"Latitude": 40.7606812
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
