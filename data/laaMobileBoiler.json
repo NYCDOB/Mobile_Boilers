@@ -2423,6 +2423,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B00917649-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/8/10 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3031037",
+	"Address": "850 ST MARKS AVENUE",
+	"CommunityBoardNumber": "308",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9448318,
+	"Latitude": 40.6746101
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -8496,6 +8510,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9761734,
 	"Latitude": 40.789299
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00917265-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/8/10 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1054377",
+	"Address": "1980 LEXINGTON AVENUE",
+	"CommunityBoardNumber": "111",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9401321,
+	"Latitude": 40.8017616
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
