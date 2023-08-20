@@ -20399,20 +20399,6 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
-	"JFNPermitNumber": "M00867276-I1-LA",
-	"FilingNumber": "I1",
-	"Created On Date": "2023/4/28 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "1079215",
-	"Address": "280 BROADWAY",
-	"CommunityBoardNumber": "101",
-	"LocationBoroughName": "MANHATTAN",
-	"Longitude": -74.0056534,
-	"Latitude": 40.7142296
- },
- {
-	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "M00867620-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2023/5/1 12:00:00",
@@ -20494,6 +20480,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9867096,
 	"Latitude": 40.7466202
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M00921947-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/8/18 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1057095",
+	"Address": "318 WEST  100 STREET",
+	"CommunityBoardNumber": "107",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9726334,
+	"Latitude": 40.798111
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
