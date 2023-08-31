@@ -20553,6 +20553,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M00927043-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/8/30 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1050756",
+	"Address": "1755 YORK AVENUE",
+	"CommunityBoardNumber": "108",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.94487,
+	"Latitude": 40.7795601
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "M08006838-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -20844,6 +20858,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.939949,
 	"Latitude": 40.8485489
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/8/30 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1077586",
+	"Address": "645 WATER STREET",
+	"CommunityBoardNumber": "103",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9820328,
+	"Latitude": 40.7111702
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
@@ -23322,6 +23350,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9955978,
 	"Latitude": 40.7303391
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2023/8/30 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "1077587",
+	"Address": "675 WATER STREET",
+	"CommunityBoardNumber": "103",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9820328,
+	"Latitude": 40.7111702
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
