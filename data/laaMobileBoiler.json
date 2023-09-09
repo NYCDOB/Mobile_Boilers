@@ -8667,6 +8667,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00931151-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/9/8 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1019821",
+	"Address": "201 EAST   25 STREET",
+	"CommunityBoardNumber": "106",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9817429,
+	"Latitude": 40.7402
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -9630,6 +9644,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.9179993,
 	"Latitude": 40.8501396
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/9/8 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4163698",
+	"Address": "231-02 67 AVENUE",
+	"CommunityBoardNumber": "411",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.7454071,
+	"Latitude": 40.7474594
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -14754,6 +14782,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.8520889,
 	"Latitude": 40.8507004
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X00931050-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/9/8 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2009010",
+	"Address": "1725 ANDREWS AVENUE",
+	"CommunityBoardNumber": "205",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.9179993,
+	"Latitude": 40.8501396
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -20620,6 +20662,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9820328,
 	"Latitude": 40.7111702
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M00931444-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/9/8 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1063952",
+	"Address": "615 WEST  183 STREET",
+	"CommunityBoardNumber": "112",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9335327,
+	"Latitude": 40.8510208
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
