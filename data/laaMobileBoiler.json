@@ -2507,6 +2507,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B00932461-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/9/12 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3037628",
+	"Address": "1370 EASTERN PARKWAY",
+	"CommunityBoardNumber": "308",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9229813,
+	"Latitude": 40.6679001
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -8695,6 +8709,34 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00934298-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/9/15 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1070806",
+	"Address": "127 WEST   82 STREET",
+	"CommunityBoardNumber": "107",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9752426,
+	"Latitude": 40.7846489
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00934815-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/9/15 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1059526",
+	"Address": "425 WEST  123 STREET",
+	"CommunityBoardNumber": "109",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9557266,
+	"Latitude": 40.810791
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -9672,20 +9714,6 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.9170914,
 	"Latitude": 40.8488503
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2023/9/12 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "3037628",
-	"Address": "1370 EASTERN PARKWAY",
-	"CommunityBoardNumber": "308",
-	"LocationBoroughName": "BROOKLYN",
-	"Longitude": -73.9229813,
-	"Latitude": 40.6679001
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -14866,6 +14894,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.8862228,
 	"Latitude": 40.8769493
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X00934458-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/9/15 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2102055",
+	"Address": "465 EAST FORDHAM ROAD",
+	"CommunityBoardNumber": "206",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.8853302,
+	"Latitude": 40.8616295
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
