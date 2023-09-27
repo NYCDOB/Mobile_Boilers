@@ -8835,6 +8835,34 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00939380-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/9/26 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1013732",
+	"Address": "201 WEST   14 STREET",
+	"CommunityBoardNumber": "104",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9997025,
+	"Latitude": 40.7388611
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00939418-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/9/26 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1011222",
+	"Address": "207 WEST   10 STREET",
+	"CommunityBoardNumber": "102",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -74.0041122,
+	"Latitude": 40.7342682
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -9812,20 +9840,6 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.9170914,
 	"Latitude": 40.8488503
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2023/9/13 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "2098174",
-	"Address": "1050 ANDERSON AVENUE",
-	"CommunityBoardNumber": "204",
-	"LocationBoroughName": "BRONX",
-	"Longitude": -73.9259186,
-	"Latitude": 40.8332405
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -15006,6 +15020,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.8862228,
 	"Latitude": 40.8769493
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X00933357-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/9/13 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2098174",
+	"Address": "1050 ANDERSON AVENUE",
+	"CommunityBoardNumber": "204",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.9259186,
+	"Latitude": 40.8332405
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
