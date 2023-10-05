@@ -8919,6 +8919,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00943536-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/10/4 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1033719",
+	"Address": "401 WEST END AVENUE",
+	"CommunityBoardNumber": "107",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9812622,
+	"Latitude": 40.7846909
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -17680,6 +17694,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.998703,
 	"Latitude": 40.7103386
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2023/10/4 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "1008184",
+	"Address": "308 MOTT STREET",
+	"CommunityBoardNumber": "102",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.993782,
+	"Latitude": 40.7251282
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
