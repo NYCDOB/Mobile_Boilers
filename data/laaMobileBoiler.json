@@ -21589,6 +21589,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/10/6 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3014856",
+	"Address": "150 55 STREET",
+	"CommunityBoardNumber": "307",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -74.0212173,
+	"Latitude": 40.6466713
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "Q00091863-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2018/10/24 12:00:00",
