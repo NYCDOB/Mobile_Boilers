@@ -312,7 +312,7 @@ var width = $("#map").width(),
 		pointsUpd.attr("stroke-width", 1 / proj.scale);
 		pointsUpd.attr('r', 5 / proj.scale);
 });
-	d3.csv("data/laaMobileBoiler_2022_102723.csv",function(data){
+	d3.csv("https://raw.githubusercontent.com/NYCDOB/Mobile_Boilers/gh-pages/data/laaMobileBoiler_2022_102723.csv",function(data){
 				points = data.map(function(d){
 				d.latLng = [+d.Latitude,+d.Longitude];
 				d.type = d["Item Type Name"];
@@ -389,7 +389,7 @@ var width = $("#map").width(),
 		var table = $('#riskTable').DataTable({
 
 				"ajax": {
-					"url": "data/laaMobileBoiler_2022_102723.json",
+					"url": "https://raw.githubusercontent.com/NYCDOB/Mobile_Boilers/gh-pages/data/laaMobileBoiler_2022_102723.json",
 					"dataSrc": ""
 				},
 
