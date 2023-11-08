@@ -3543,6 +3543,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00958940-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/11/7 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1064331",
+	"Address": "875 WEST  181 STREET",
+	"CommunityBoardNumber": "112",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9412766,
+	"Latitude": 40.851841
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -4898,6 +4912,20 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.8289108,
 	"Latitude": 40.7578201
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Q00959362-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/11/7 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4298281",
+	"Address": "1450 GATEWAY BOULEVARD",
+	"CommunityBoardNumber": "414",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.7505264,
+	"Latitude": 40.6012993
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -7152,6 +7180,20 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.8852463,
 	"Latitude": 40.7520599
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2023/11/7 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "1044818",
+	"Address": "315 EAST   69 STREET",
+	"CommunityBoardNumber": "108",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9587402,
+	"Latitude": 40.7666817
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
