@@ -4342,6 +4342,48 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/12/12 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1061859",
+	"Address": "115 HAMILTON PLACE",
+	"CommunityBoardNumber": "109",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.94918,
+	"Latitude": 40.82363
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/12/12 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1088133",
+	"Address": "454 WEST  155 STREET",
+	"CommunityBoardNumber": "109",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.94193,
+	"Latitude": 40.83082
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/12/14 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1058613",
+	"Address": "2294 FREDRICK DOUGLASS BOULEVARD",
+	"CommunityBoardNumber": "110",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.95165,
+	"Latitude": 40.80896
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "S1",
 	"Created On Date": "2023/10/16 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -5139,6 +5181,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Q00976192-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/12/12 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4161005",
+	"Address": "53-11 SPRINGFIELD BOULEVARD",
+	"CommunityBoardNumber": "411",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.75982,
+	"Latitude": 40.75361
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Q08013758-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/30 12:00:00",
@@ -5416,6 +5472,20 @@
 	"LocationBoroughName": "STATEN ISLAND",
 	"Longitude": -74.09315,
 	"Latitude": 40.62032
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "S00977562-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/12/14 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "5157467",
+	"Address": "75 RICHMOND TERRACE",
+	"CommunityBoardNumber": "501",
+	"LocationBoroughName": "STATEN ISLAND",
+	"Longitude": -74.07819,
+	"Latitude": 40.64752
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -7436,6 +7506,20 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2023/12/13 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "1013822",
+	"Address": "248 WEST   17 STREET",
+	"CommunityBoardNumber": "104",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -74.0004,
+	"Latitude": 40.74109
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
 	"FilingNumber": "P2",
 	"Created On Date": "2022/7/26 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -7530,6 +7614,20 @@
 	"LocationBoroughName": "BROOKLYN",
 	"Longitude": -73.96082,
 	"Latitude": 40.67068
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "B00977458-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/12/14 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3328235",
+	"Address": "330 RUGBY ROAD",
+	"CommunityBoardNumber": "314",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.96585,
+	"Latitude": 40.6413
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
