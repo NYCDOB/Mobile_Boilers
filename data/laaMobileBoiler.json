@@ -1163,6 +1163,34 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B00981455-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/12/22 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3031228",
+	"Address": "685 NOSTRAND AVENUE",
+	"CommunityBoardNumber": "308",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.94975,
+	"Latitude": 40.67384
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B00981686-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/12/22 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3036891",
+	"Address": "1598 STERLING PLACE",
+	"CommunityBoardNumber": "308",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.92595,
+	"Latitude": 40.67094
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -3750,6 +3778,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.95779,
 	"Latitude": 40.76661
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00981760-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/12/22 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1084180",
+	"Address": "550 WEST  155 STREET",
+	"CommunityBoardNumber": "109",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.94535,
+	"Latitude": 40.83216
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
