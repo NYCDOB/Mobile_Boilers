@@ -1191,6 +1191,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B00984960-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/1/3 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3106612",
+	"Address": "728 EAST NEW YORK AVENUE",
+	"CommunityBoardNumber": "309",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.93837,
+	"Latitude": 40.66199
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -5349,6 +5363,34 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Q00984606-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/1/3 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4035531",
+	"Address": "83-09 35 AVENUE",
+	"CommunityBoardNumber": "403",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.88334,
+	"Latitude": 40.7522
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Q00984648-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/1/3 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4075144",
+	"Address": "100-26 67 ROAD",
+	"CommunityBoardNumber": "406",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.8528,
+	"Latitude": 40.72587
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Q08013758-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/30 12:00:00",
@@ -8454,6 +8496,20 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.92448,
 	"Latitude": 40.76676
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/1/3 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2100251",
+	"Address": "121 WEST  180 STREET",
+	"CommunityBoardNumber": "205",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.91305,
+	"Latitude": 40.85773
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
