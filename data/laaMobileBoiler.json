@@ -4047,6 +4047,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00990931-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/1/16 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1011729",
+	"Address": "690 GREENWICH STREET",
+	"CommunityBoardNumber": "102",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -74.00774,
+	"Latitude": 40.73311
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -4758,6 +4772,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.96328,
 	"Latitude": 40.75405
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/1/16 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3103061",
+	"Address": "192 EAST   56 STREET",
+	"CommunityBoardNumber": "317",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9249,
+	"Latitude": 40.65212
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
