@@ -4061,6 +4061,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M00992327-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/1/18 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1026477",
+	"Address": "402 WEST   46 STREET",
+	"CommunityBoardNumber": "104",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.99135,
+	"Latitude": 40.76098
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -7057,6 +7071,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X00992448-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/1/18 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2007993",
+	"Address": "1466 GRAND CONCOURSE",
+	"CommunityBoardNumber": "204",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.91231,
+	"Latitude": 40.84056
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X07993827-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/25 12:00:00",
@@ -8062,6 +8090,34 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -74.0004,
 	"Latitude": 40.74109
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2024/1/18 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "1062533",
+	"Address": "442 WEST  160 STREET",
+	"CommunityBoardNumber": "112",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.94045,
+	"Latitude": 40.83447
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2024/1/18 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "4035531",
+	"Address": "83-09 35 AVENUE",
+	"CommunityBoardNumber": "403",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.88334,
+	"Latitude": 40.7522
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
