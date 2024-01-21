@@ -8122,6 +8122,34 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2024/1/20 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "1008701",
+	"Address": "110 WEST    3 STREET",
+	"CommunityBoardNumber": "102",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.99992,
+	"Latitude": 40.73009
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2024/1/20 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "1008875",
+	"Address": "33 WASHINGTON SQUARE WEST",
+	"CommunityBoardNumber": "102",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.99957,
+	"Latitude": 40.73158
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
 	"FilingNumber": "P2",
 	"Created On Date": "2022/7/26 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -8146,6 +8174,20 @@
 	"LocationBoroughName": "STATEN ISLAND",
 	"Longitude": -74.09061,
 	"Latitude": 40.59557
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P2",
+	"Created On Date": "2024/1/20 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "1008875",
+	"Address": "33 WASHINGTON SQUARE WEST",
+	"CommunityBoardNumber": "102",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.99957,
+	"Latitude": 40.73158
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
