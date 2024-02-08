@@ -7155,6 +7155,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01002013-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/2/7 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2097548",
+	"Address": "2035 EASTCHESTER ROAD",
+	"CommunityBoardNumber": "211",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.84466,
+	"Latitude": 40.85368
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X07993827-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/25 12:00:00",
