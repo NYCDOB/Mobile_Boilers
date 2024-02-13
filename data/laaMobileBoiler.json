@@ -4874,20 +4874,6 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2024/2/8 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "2007995",
-	"Address": "1455 SHERIDAN AVENUE",
-	"CommunityBoardNumber": "204",
-	"LocationBoroughName": "BRONX",
-	"Longitude": -73.91219,
-	"Latitude": 40.83986
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "S1",
 	"Created On Date": "2023/10/16 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -7194,6 +7180,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.84466,
 	"Latitude": 40.85368
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01003192-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/2/8 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2007995",
+	"Address": "1455 SHERIDAN AVENUE",
+	"CommunityBoardNumber": "204",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.91219,
+	"Latitude": 40.83986
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
