@@ -1233,6 +1233,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B00987788-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/1/9 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3081227",
+	"Address": "41 BLAKE AVENUE",
+	"CommunityBoardNumber": "316",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.91882,
+	"Latitude": 40.66445
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B00987819-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2024/1/9 12:00:00",
@@ -4884,20 +4898,6 @@
 	"LocationBoroughName": "BROOKLYN",
 	"Longitude": -73.99098,
 	"Latitude": 40.69177
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2024/1/9 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "3081227",
-	"Address": "41 BLAKE AVENUE",
-	"CommunityBoardNumber": "316",
-	"LocationBoroughName": "BROOKLYN",
-	"Longitude": -73.91882,
-	"Latitude": 40.66445
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -9185,20 +9185,6 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2024/1/22 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "2100251",
-	"Address": "121 WEST  180 STREET",
-	"CommunityBoardNumber": "205",
-	"LocationBoroughName": "BRONX",
-	"Longitude": -73.91305,
-	"Latitude": 40.85773
- },
- {
-	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "Q00656325-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/1/3 12:00:00",
@@ -9490,6 +9476,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.86669,
 	"Latitude": 40.8629
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "X00994143-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/1/22 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2100251",
+	"Address": "121 WEST  180 STREET",
+	"CommunityBoardNumber": "205",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.91305,
+	"Latitude": 40.85773
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
