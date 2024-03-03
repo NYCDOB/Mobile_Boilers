@@ -7281,6 +7281,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01013529-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/3/1 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2097413",
+	"Address": "1 CARDINAL SPELLMAN PLACE",
+	"CommunityBoardNumber": "212",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.84124,
+	"Latitude": 40.88419
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X07993827-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/25 12:00:00",
