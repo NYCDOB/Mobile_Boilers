@@ -9465,6 +9465,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/4/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4309526",
+	"Address": "41-01 KISSENA BOULEVARD",
+	"CommunityBoardNumber": "407",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.82832,
+	"Latitude": 40.75835
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "Q00656325-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/1/3 12:00:00",
