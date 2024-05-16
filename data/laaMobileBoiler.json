@@ -4481,6 +4481,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01051501-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/5/15 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1009195",
+	"Address": "31 EAST   12 STREET",
+	"CommunityBoardNumber": "102",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.99241,
+	"Latitude": 40.73397
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -9700,6 +9714,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.91305,
 	"Latitude": 40.85773
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/5/15 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "5108458",
+	"Address": "57 CLEVELAND PLACE",
+	"CommunityBoardNumber": "502",
+	"LocationBoroughName": "STATEN ISLAND",
+	"Longitude": -74.06785,
+	"Latitude": 40.60164
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
