@@ -10067,6 +10067,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M01074448-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/6/30 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1811452",
+	"Address": "20 RANDALLS ISLAND",
+	"CommunityBoardNumber": "111",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.92207,
+	"Latitude": 40.79552
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "M08006838-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
