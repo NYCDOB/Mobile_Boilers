@@ -1513,6 +1513,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B01091573-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/8/5 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3331441",
+	"Address": "9820 SEAVIEW AVENUE",
+	"CommunityBoardNumber": "318",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.88597,
+	"Latitude": 40.63334
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
