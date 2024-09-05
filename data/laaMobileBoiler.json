@@ -5013,6 +5013,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01105945-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/9/4 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1045958",
+	"Address": "1435 YORK AVENUE",
+	"CommunityBoardNumber": "108",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.95202,
+	"Latitude": 40.76971
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -5682,6 +5696,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9567,
 	"Latitude": 40.77288
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/9/4 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2003513",
+	"Address": "1201 UNIVERSITY AVENUE",
+	"CommunityBoardNumber": "204",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.92764,
+	"Latitude": 40.83816
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -8356,6 +8384,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.90611,
 	"Latitude": 40.90524
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01106334-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/9/4 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2003686",
+	"Address": "350 ST ANNS AVENUE",
+	"CommunityBoardNumber": "201",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.91528,
+	"Latitude": 40.80942
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
