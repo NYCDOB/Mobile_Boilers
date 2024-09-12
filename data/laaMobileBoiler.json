@@ -11019,6 +11019,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "S01109806-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/9/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "5082757",
+	"Address": "351 SEGUINE AVENUE",
+	"CommunityBoardNumber": "503",
+	"LocationBoroughName": "STATEN ISLAND",
+	"Longitude": -74.19614,
+	"Latitude": 40.51698
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "X00693249-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/3/7 12:00:00",
