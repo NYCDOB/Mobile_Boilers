@@ -9858,6 +9858,20 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2024/9/19 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "1045958",
+	"Address": "1435 YORK AVENUE",
+	"CommunityBoardNumber": "108",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.95202,
+	"Latitude": 40.76971
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
 	"FilingNumber": "P2",
 	"Created On Date": "2022/7/26 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -10680,6 +10694,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.99685,
 	"Latitude": 40.75089
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M01113914-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/9/19 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1064383",
+	"Address": "99 MARGARET CORBIN DRIVE",
+	"CommunityBoardNumber": "112",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.93172,
+	"Latitude": 40.8649
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
