@@ -5209,6 +5209,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01122710-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/10/7 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1059534",
+	"Address": "453 WEST  125 STREET",
+	"CommunityBoardNumber": "109",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.95547,
+	"Latitude": 40.81293
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -11492,6 +11506,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.91305,
 	"Latitude": 40.85773
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "X01122882-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/10/7 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2097413",
+	"Address": "1 CARDINAL SPELLMAN PLACE",
+	"CommunityBoardNumber": "212",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.84124,
+	"Latitude": 40.88419
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
