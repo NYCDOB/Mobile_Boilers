@@ -6036,20 +6036,6 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2024/10/17 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "2012898",
-	"Address": "737 EAST  187 STREET",
-	"CommunityBoardNumber": "206",
-	"LocationBoroughName": "BRONX",
-	"Longitude": -73.88313,
-	"Latitude": 40.85402
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "S1",
 	"Created On Date": "2023/10/16 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -8902,6 +8888,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.86623,
 	"Latitude": 40.87938
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01128806-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/10/17 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2012898",
+	"Address": "737 EAST  187 STREET",
+	"CommunityBoardNumber": "206",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.88313,
+	"Latitude": 40.85402
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
