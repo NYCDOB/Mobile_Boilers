@@ -1709,6 +1709,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B01150457-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/12/3 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3036890",
+	"Address": "1588 STERLING PLACE",
+	"CommunityBoardNumber": "308",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.92619,
+	"Latitude": 40.67096
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -9266,6 +9280,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.8996,
 	"Latitude": 40.86325
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01150474-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/12/3 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2046141",
+	"Address": "3033 MIDDLETOWN ROAD",
+	"CommunityBoardNumber": "210",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.82914,
+	"Latitude": 40.84473
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
