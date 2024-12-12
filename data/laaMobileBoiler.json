@@ -6372,6 +6372,20 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/12/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3097445",
+	"Address": "721 VAN SICLEN AVENUE",
+	"CommunityBoardNumber": "305",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.88634,
+	"Latitude": 40.66192
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "S1",
 	"Created On Date": "2023/10/16 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -9378,6 +9392,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.82914,
 	"Latitude": 40.84473
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01154097-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/12/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2102055",
+	"Address": "465 EAST FORDHAM ROAD",
+	"CommunityBoardNumber": "206",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.88533,
+	"Latitude": 40.86163
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
