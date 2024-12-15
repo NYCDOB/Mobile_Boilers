@@ -1737,6 +1737,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B01154633-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2024/12/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3097445",
+	"Address": "721 VAN SICLEN AVENUE",
+	"CommunityBoardNumber": "305",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.88634,
+	"Latitude": 40.66192
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -6368,20 +6382,6 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9567,
 	"Latitude": 40.77288
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2024/12/11 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "3097445",
-	"Address": "721 VAN SICLEN AVENUE",
-	"CommunityBoardNumber": "305",
-	"LocationBoroughName": "BROOKLYN",
-	"Longitude": -73.88634,
-	"Latitude": 40.66192
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
