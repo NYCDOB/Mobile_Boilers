@@ -5825,6 +5825,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01164734-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/1/9 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1082709",
+	"Address": "435 WEST   23 STREET",
+	"CommunityBoardNumber": "104",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -74.00249,
+	"Latitude": 40.74744
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -12164,6 +12178,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.91305,
 	"Latitude": 40.85773
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/1/9 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2047437",
+	"Address": "3108 WILKINSON AVENUE",
+	"CommunityBoardNumber": "210",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.82877,
+	"Latitude": 40.85145
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
