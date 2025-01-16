@@ -6540,20 +6540,6 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2025/1/15 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "2093400",
-	"Address": "2440 BOSTON ROAD",
-	"CommunityBoardNumber": "211",
-	"LocationBoroughName": "BRONX",
-	"Longitude": -73.86597,
-	"Latitude": 40.86198
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "S1",
 	"Created On Date": "2023/10/16 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -9675,6 +9661,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01167229-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/1/15 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2093400",
+	"Address": "2440 BOSTON ROAD",
+	"CommunityBoardNumber": "211",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.86597,
+	"Latitude": 40.86198
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X07993827-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/25 12:00:00",
@@ -12237,20 +12237,6 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2025/1/15 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "2093400",
-	"Address": "2440 BOSTON ROAD",
-	"CommunityBoardNumber": "211",
-	"LocationBoroughName": "BRONX",
-	"Longitude": -73.86597,
-	"Latitude": 40.86198
- },
- {
-	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "Q00656325-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/1/3 12:00:00",
@@ -12682,6 +12668,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.82877,
 	"Latitude": 40.85145
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "X01167229-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/1/15 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2093400",
+	"Address": "2440 BOSTON ROAD",
+	"CommunityBoardNumber": "211",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.86597,
+	"Latitude": 40.86198
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
