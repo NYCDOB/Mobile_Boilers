@@ -9773,6 +9773,34 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01173212-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/1/28 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2015472",
+	"Address": "3961 HILLMAN AVENUE",
+	"CommunityBoardNumber": "208",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.89166,
+	"Latitude": 40.88305
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01173231-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/1/28 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2015472",
+	"Address": "3961 HILLMAN AVENUE",
+	"CommunityBoardNumber": "208",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.89166,
+	"Latitude": 40.88305
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X07993827-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/25 12:00:00",
@@ -12223,6 +12251,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M01173260-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/1/28 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1041859",
+	"Address": "7 EAST   78 STREET",
+	"CommunityBoardNumber": "108",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.96323,
+	"Latitude": 40.77614
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "M08006838-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -12822,6 +12864,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.86597,
 	"Latitude": 40.86198
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "X01173238-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/1/28 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2015472",
+	"Address": "3961 HILLMAN AVENUE",
+	"CommunityBoardNumber": "208",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.89166,
+	"Latitude": 40.88305
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
