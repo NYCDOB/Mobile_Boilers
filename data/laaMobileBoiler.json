@@ -5979,6 +5979,48 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01176515-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/2/4 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1084128",
+	"Address": "1430 AMSTERDAM AVENUE",
+	"CommunityBoardNumber": "109",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.95544,
+	"Latitude": 40.8168
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01176776-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/2/5 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1084129",
+	"Address": "1470 AMSTERDAM AVENUE",
+	"CommunityBoardNumber": "109",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.95544,
+	"Latitude": 40.8168
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01176811-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/2/5 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1084130",
+	"Address": "95 OLD BROADWAY",
+	"CommunityBoardNumber": "109",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.95544,
+	"Latitude": 40.8168
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -6662,20 +6704,6 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.92635,
 	"Latitude": 40.76174
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2025/2/3 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "4065242",
-	"Address": "86-16 60 AVENUE",
-	"CommunityBoardNumber": "406",
-	"LocationBoroughName": "QUEENS",
-	"Longitude": -73.87318,
-	"Latitude": 40.73063
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -7936,6 +7964,20 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.8248,
 	"Latitude": 40.6788
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Q01175702-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/2/3 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4065242",
+	"Address": "86-16 60 AVENUE",
+	"CommunityBoardNumber": "406",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.87318,
+	"Latitude": 40.73063
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -11356,6 +11398,20 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2025/2/4 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "4591928",
+	"Address": "111-10 115 STREET",
+	"CommunityBoardNumber": "410",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.8248,
+	"Latitude": 40.6788
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
 	"FilingNumber": "P2",
 	"Created On Date": "2022/7/26 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -12349,6 +12405,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M01176416-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/2/4 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1084127",
+	"Address": "1414 AMSTERDAM AVENUE",
+	"CommunityBoardNumber": "109",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.95544,
+	"Latitude": 40.8168
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "M08006838-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -12696,6 +12766,20 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.84747,
 	"Latitude": 40.73775
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "Q01176838-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/2/5 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4113859",
+	"Address": "14467 41 AVENUE",
+	"CommunityBoardNumber": "407",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.81892,
+	"Latitude": 40.76157
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
