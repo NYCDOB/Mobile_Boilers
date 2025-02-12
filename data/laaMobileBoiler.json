@@ -1835,6 +1835,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B01178626-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/2/10 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3426287",
+	"Address": "265 LOGAN STREET",
+	"CommunityBoardNumber": "305",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.87695,
+	"Latitude": 40.6797
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -6021,6 +6035,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01179443-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/2/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1045954",
+	"Address": "427 EAST   76 STREET",
+	"CommunityBoardNumber": "108",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.95259,
+	"Latitude": 40.77
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -6704,6 +6732,20 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.92635,
 	"Latitude": 40.76174
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/2/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1033951",
+	"Address": "334 WEST   87 STREET",
+	"CommunityBoardNumber": "107",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.97901,
+	"Latitude": 40.79001
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -7978,6 +8020,20 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.87318,
 	"Latitude": 40.73063
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Q01179526-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/2/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4580017",
+	"Address": "268-05 76 AVENUE",
+	"CommunityBoardNumber": "413",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.70931,
+	"Latitude": 40.75293
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -9910,6 +9966,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.89166,
 	"Latitude": 40.88305
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01178947-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/2/10 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2013059",
+	"Address": "751 EAST  187 STREET",
+	"CommunityBoardNumber": "206",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.88239,
+	"Latitude": 40.85374
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -12780,6 +12850,20 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.81892,
 	"Latitude": 40.76157
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "Q01179526-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/2/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4580017",
+	"Address": "268-05 76 AVENUE",
+	"CommunityBoardNumber": "413",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.70931,
+	"Latitude": 40.75293
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
