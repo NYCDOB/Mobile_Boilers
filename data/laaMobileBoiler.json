@@ -13414,6 +13414,20 @@
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2025/2/24 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "1041859",
+	"Address": "7 EAST   78 STREET",
+	"CommunityBoardNumber": "108",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.96323,
+	"Latitude": 40.77614
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "",
 	"FilingNumber": "P2",
 	"Created On Date": "2023/6/7 12:00:00",
 	"Work Type Name": "Oil Work",
