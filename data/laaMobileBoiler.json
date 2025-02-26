@@ -6764,20 +6764,6 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2025/2/21 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "2004403",
-	"Address": "1038 BOSTON ROAD",
-	"CommunityBoardNumber": "203",
-	"LocationBoroughName": "BRONX",
-	"Longitude": -73.90622,
-	"Latitude": 40.82605
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "S1",
 	"Created On Date": "2023/10/16 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -10036,6 +10022,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.90576,
 	"Latitude": 40.82642
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01184763-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/2/21 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2004403",
+	"Address": "1038 BOSTON ROAD",
+	"CommunityBoardNumber": "203",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.90622,
+	"Latitude": 40.82605
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
