@@ -6203,6 +6203,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01204888-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/4/2 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1011138",
+	"Address": "236 WEST   10 STREET",
+	"CommunityBoardNumber": "102",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -74.00547,
+	"Latitude": 40.73367
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -6900,20 +6914,6 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.97901,
 	"Latitude": 40.79001
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2025/2/12 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "2092063",
-	"Address": "1928 UNIVERSITY AVENUE",
-	"CommunityBoardNumber": "205",
-	"LocationBoroughName": "BRONX",
-	"Longitude": -73.91199,
-	"Latitude": 40.85331
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -10148,6 +10148,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.88239,
 	"Latitude": 40.85374
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01180052-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/2/12 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2092063",
+	"Address": "1928 UNIVERSITY AVENUE",
+	"CommunityBoardNumber": "205",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.91199,
+	"Latitude": 40.85331
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
