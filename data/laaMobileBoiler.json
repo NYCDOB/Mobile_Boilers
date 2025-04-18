@@ -1933,6 +1933,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B01212038-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/4/17 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3036877",
+	"Address": "1483 ST JOHNS PLACE",
+	"CommunityBoardNumber": "308",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.92958,
+	"Latitude": 40.6708
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -6256,6 +6270,34 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.94193,
 	"Latitude": 40.81098
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01212011-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/4/17 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1006022",
+	"Address": "211 AVENUE A",
+	"CommunityBoardNumber": "103",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.98104,
+	"Latitude": 40.72998
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01212103-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/4/17 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1004377",
+	"Address": "268 EAST 2 STREET",
+	"CommunityBoardNumber": "103",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.98036,
+	"Latitude": 40.72097
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -13032,6 +13074,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.91305,
 	"Latitude": 40.85773
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/4/17 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1004191",
+	"Address": "150 DELANCY STREET",
+	"CommunityBoardNumber": "103",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.9862,
+	"Latitude": 40.71827
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
