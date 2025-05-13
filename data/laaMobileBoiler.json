@@ -7128,20 +7128,6 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2025/5/9 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "4438312",
-	"Address": "61-00 FRANCIS LEWIS BOULEVARD",
-	"CommunityBoardNumber": "408",
-	"LocationBoroughName": "QUEENS",
-	"Longitude": -73.77642,
-	"Latitude": 40.74229
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "S1",
 	"Created On Date": "2023/10/16 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -8426,6 +8412,20 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.70931,
 	"Latitude": 40.75293
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Q01223402-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/5/9 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4438312",
+	"Address": "61-00 FRANCIS LEWIS BOULEVARD",
+	"CommunityBoardNumber": "408",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.77642,
+	"Latitude": 40.74229
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
