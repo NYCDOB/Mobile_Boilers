@@ -10473,6 +10473,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01229205-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/5/20 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2093876",
+	"Address": "3475 BIVONA STREET",
+	"CommunityBoardNumber": "212",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.83402,
+	"Latitude": 40.88232
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X07993827-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/25 12:00:00",
