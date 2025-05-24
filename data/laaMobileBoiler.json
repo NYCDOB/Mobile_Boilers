@@ -14072,6 +14072,20 @@
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2025/5/22 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "4189336",
+	"Address": "96-02 101 AVENUE",
+	"CommunityBoardNumber": "409",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.84473,
+	"Latitude": 40.68435
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "",
 	"FilingNumber": "P2",
 	"Created On Date": "2023/6/7 12:00:00",
 	"Work Type Name": "Oil Work",
