@@ -7198,6 +7198,20 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/6/13 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1003215",
+	"Address": "35 MONTGOMERY STREET",
+	"CommunityBoardNumber": "103",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.98439,
+	"Latitude": 40.7127
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "S1",
 	"Created On Date": "2023/10/16 12:00:00",
 	"Work Type Name": "Oil Work",
