@@ -10725,6 +10725,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01251306-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/7/3 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2013744",
+	"Address": "2051 GRAND CONCOURSE",
+	"CommunityBoardNumber": "205",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.90391,
+	"Latitude": 40.85286
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X07993827-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/25 12:00:00",
@@ -13427,6 +13441,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M01249005-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/6/30 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1033597",
+	"Address": "206 WEST   92 STREET",
+	"CommunityBoardNumber": "107",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.97309,
+	"Latitude": 40.7916
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "M08006838-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -13578,20 +13606,6 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9862,
 	"Latitude": 40.71827
- },
- {
-	"Item Type Name": "Temporary Oil Tank (above ground)",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2025/6/30 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "1033597",
-	"Address": "206 WEST   92 STREET",
-	"CommunityBoardNumber": "107",
-	"LocationBoroughName": "MANHATTAN",
-	"Longitude": -73.97309,
-	"Latitude": 40.7916
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
