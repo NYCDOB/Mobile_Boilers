@@ -2017,6 +2017,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B01253307-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/7/9 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3001940",
+	"Address": "200 HICKS STREET",
+	"CommunityBoardNumber": "302",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.99596,
+	"Latitude": 40.69548
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -6595,6 +6609,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01252103-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/7/7 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1065018",
+	"Address": "510 WEST  218 STREET",
+	"CommunityBoardNumber": "112",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.91483,
+	"Latitude": 40.87122
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M01252319-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2025/7/8 12:00:00",
@@ -7320,20 +7348,6 @@
 	"LocationBoroughName": "BROOKLYN",
 	"Longitude": -73.95392,
 	"Latitude": 40.58038
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2025/7/7 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "1065018",
-	"Address": "510 WEST  218 STREET",
-	"CommunityBoardNumber": "112",
-	"LocationBoroughName": "MANHATTAN",
-	"Longitude": -73.91483,
-	"Latitude": 40.87122
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
