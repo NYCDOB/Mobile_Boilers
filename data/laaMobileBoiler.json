@@ -2073,6 +2073,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B01256621-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/7/16 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3155252",
+	"Address": "354 93 STREET",
+	"CommunityBoardNumber": "310",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -74.03165,
+	"Latitude": 40.61784
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -7394,20 +7408,6 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2025/7/15 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "2016100",
-	"Address": "3881 SEDGWICK AVENUE",
-	"CommunityBoardNumber": "208",
-	"LocationBoroughName": "BRONX",
-	"Longitude": -73.89377,
-	"Latitude": 40.88319
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "S1",
 	"Created On Date": "2023/10/16 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -10851,6 +10851,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01256452-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/7/15 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2016100",
+	"Address": "3881 SEDGWICK AVENUE",
+	"CommunityBoardNumber": "208",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.89377,
+	"Latitude": 40.88319
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X07993827-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/25 12:00:00",
@@ -14264,6 +14278,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.88931,
 	"Latitude": 40.86403
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "X01256772-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/7/16 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2042466",
+	"Address": "1181 EAST TREMONT AVENUE",
+	"CommunityBoardNumber": "206",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.87431,
+	"Latitude": 40.84009
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
