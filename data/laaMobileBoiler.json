@@ -14295,6 +14295,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "X01257277-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/7/17 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2008582",
+	"Address": "1804 HARRISON AVENUE",
+	"CommunityBoardNumber": "205",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.91376,
+	"Latitude": 40.85023
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "X07997355-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/1 12:00:00",
