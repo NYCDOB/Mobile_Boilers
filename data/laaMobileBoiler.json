@@ -10907,6 +10907,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01258909-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/7/21 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2092440",
+	"Address": "2660 BAILEY AVENUE",
+	"CommunityBoardNumber": "207",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.9067,
+	"Latitude": 40.86994
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X07993827-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/25 12:00:00",
@@ -13788,6 +13802,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9862,
 	"Latitude": 40.71827
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/7/21 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1010150",
+	"Address": "25 CORNELIA STREET",
+	"CommunityBoardNumber": "102",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -74.00236,
+	"Latitude": 40.73155
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
