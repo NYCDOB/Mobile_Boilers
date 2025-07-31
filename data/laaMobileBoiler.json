@@ -2087,6 +2087,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B01262828-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/7/29 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3002543",
+	"Address": "75 LIVINGSTON STREET",
+	"CommunityBoardNumber": "302",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.99164,
+	"Latitude": 40.69188
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -7474,20 +7488,6 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.83479,
 	"Latitude": 40.87861
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2025/7/29 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "3002543",
-	"Address": "75 LIVINGSTON STREET",
-	"CommunityBoardNumber": "302",
-	"LocationBoroughName": "BROOKLYN",
-	"Longitude": -73.99164,
-	"Latitude": 40.69188
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
