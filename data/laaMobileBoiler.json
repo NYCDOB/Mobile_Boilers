@@ -6791,6 +6791,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01266861-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/8/5 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1006441",
+	"Address": "322 EAST   11 STREET",
+	"CommunityBoardNumber": "103",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.98528,
+	"Latitude": 40.72968
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M07994280-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/26 12:00:00",
@@ -7502,6 +7516,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.83479,
 	"Latitude": 40.87861
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/8/5 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1052617",
+	"Address": "231 EAST  117 STREET",
+	"CommunityBoardNumber": "111",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.93797,
+	"Latitude": 40.79821
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -13928,20 +13956,6 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -74.00236,
 	"Latitude": 40.73155
- },
- {
-	"Item Type Name": "Temporary Oil Tank (above ground)",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2025/8/4 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "1052617",
-	"Address": "231 EAST  117 STREET",
-	"CommunityBoardNumber": "111",
-	"LocationBoroughName": "MANHATTAN",
-	"Longitude": -73.93797,
-	"Latitude": 40.79821
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
