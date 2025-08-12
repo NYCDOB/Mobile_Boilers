@@ -7520,6 +7520,20 @@
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/8/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3147358",
+	"Address": "7212 4 AVENUE",
+	"CommunityBoardNumber": "310",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -74.02465,
+	"Latitude": 40.63274
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "S1",
 	"Created On Date": "2023/10/16 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -13802,6 +13816,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.93034,
 	"Latitude": 40.85567
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M01269661-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/8/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1028816",
+	"Address": "170 CENTRAL PARK WEST",
+	"CommunityBoardNumber": "107",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.97439,
+	"Latitude": 40.7793
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
