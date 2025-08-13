@@ -2101,6 +2101,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B01270093-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/8/12 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3147359",
+	"Address": "7224 4 AVENUE",
+	"CommunityBoardNumber": "310",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -74.02477,
+	"Latitude": 40.63248
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
@@ -7530,6 +7544,20 @@
 	"LocationBoroughName": "BROOKLYN",
 	"Longitude": -74.02465,
 	"Latitude": 40.63274
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/8/12 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1079120",
+	"Address": "415 WEST   50 STREET",
+	"CommunityBoardNumber": "104",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.98972,
+	"Latitude": 40.76406
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -13791,6 +13819,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M01258713-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/7/21 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1010150",
+	"Address": "25 CORNELIA STREET",
+	"CommunityBoardNumber": "102",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -74.00236,
+	"Latitude": 40.73155
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "M01265244-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2025/8/1 12:00:00",
@@ -13984,20 +14026,6 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.9862,
 	"Latitude": 40.71827
- },
- {
-	"Item Type Name": "Temporary Oil Tank (above ground)",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2025/7/21 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "1010150",
-	"Address": "25 CORNELIA STREET",
-	"CommunityBoardNumber": "102",
-	"LocationBoroughName": "MANHATTAN",
-	"Longitude": -74.00236,
-	"Latitude": 40.73155
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
