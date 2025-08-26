@@ -6833,6 +6833,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01270318-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/8/12 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1079120",
+	"Address": "415 WEST   50 STREET",
+	"CommunityBoardNumber": "104",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.98972,
+	"Latitude": 40.76406
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M01271708-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2025/8/14 12:00:00",
@@ -6844,6 +6858,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.98277,
 	"Latitude": 40.73987
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01276796-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/8/25 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1005211",
+	"Address": "528 EAST   13 STREET",
+	"CommunityBoardNumber": "103",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.97967,
+	"Latitude": 40.72897
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -7572,20 +7600,6 @@
 	"LocationBoroughName": "BROOKLYN",
 	"Longitude": -74.02465,
 	"Latitude": 40.63274
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
-	"FilingNumber": "I1",
-	"Created On Date": "2025/8/12 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "1079120",
-	"Address": "415 WEST   50 STREET",
-	"CommunityBoardNumber": "104",
-	"LocationBoroughName": "MANHATTAN",
-	"Longitude": -73.98972,
-	"Latitude": 40.76406
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
