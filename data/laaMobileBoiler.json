@@ -2129,6 +2129,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B01276077-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/9/8 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3183162",
+	"Address": "1900 QUENTIN ROAD",
+	"CommunityBoardNumber": "315",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.95387,
+	"Latitude": 40.60834
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B08006576-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/20 12:00:00",
