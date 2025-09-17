@@ -14827,6 +14827,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "X01287973-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/9/16 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2097050",
+	"Address": "234 EAST  149 STREET",
+	"CommunityBoardNumber": "201",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.92448,
+	"Latitude": 40.81676
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "X07997355-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/1 12:00:00",
