@@ -100,7 +100,7 @@ tr.shown td.details-control {
 	position: absolute;
     border: 1px solid #707070;
 	bottom: 5px;
-	width: 23em;
+	width: 29em;
 	font-size:1.1em;
 	left:5px;
 	display:flex;
@@ -412,7 +412,7 @@ var width = $("#map").width(),
 		.on("mouseout", function(d, i){			
 			$(this).attr("style", "stroke-width: 0px; fill-opacity: .7;");
 		});
-		pointsUpd.attr('r', 7 / proj.scale);
+		pointsUpd.attr('r', 6 / proj.scale);
 		
 			var gasSlider = document.querySelector('input[id="chkGas"]');
 				oilSlider = document.querySelector('input[id="chkOil"]');
@@ -681,3 +681,4 @@ var width = $("#map").width(),
 </body>
 
 </html>
+
