@@ -1,0 +1,292 @@
+ID,ItemTypeName,JFNPermitNumber,FilingNumber,CreatedOnDate,WorkTypeName,FilingTypeName,BIN,Address,CD,BOROUGH,PermitExpiresOn,Status,LAT,LONG
+1,Registered gas fired temporary boiler,B00814824-I1-LA,I1,1/18/2023,Gas Plumbing Work,New Job Filing,3327832,295 JACKSON STREET,301,BROOKLYN,12/31/2025,Active,40.71807,-73.93845
+2,Registered gas fired temporary boiler,B00831362-I1-LA,I1,2/17/2023,Gas Plumbing Work,New Job Filing,3324970,939 DEKALB AVENUE,303,BROOKLYN,12/31/2025,Active,40.69322,-73.93858
+3,Registered gas fired temporary boiler,B01069245-I1-LA,I1,6/20/2024,Gas Plumbing Work,New Job Filing,3322185,2738 86 STREET,313,BROOKLYN,11/25/2025,Active,40.59153,-73.97987
+4,Registered gas fired temporary boiler,B01069248-I1-LA,I1,6/21/2024,Gas Plumbing Work,New Job Filing,3322185,2738 86 STREET,313,BROOKLYN,11/25/2025,Active,40.59153,-73.97987
+5,Registered gas fired temporary boiler,B01069258-I1-LA,I1,6/21/2024,Gas Plumbing Work,New Job Filing,3322185,2738 86 STREET,313,BROOKLYN,11/25/2025,Active,40.59153,-73.97987
+6,Registered gas fired temporary boiler,B01287237-I1-LA,I1,9/15/2025,Gas Plumbing Work,New Job Filing,3029667,200 EASTERN PARKWAY,355,BROOKLYN,12/31/2025,Active,40.67055,-73.96376
+7,Registered gas fired temporary boiler,B01288944-I1-LA,I1,9/17/2025,Gas Plumbing Work,New Job Filing,3324730,10 LEWIS AVENUE,303,BROOKLYN,12/31/2025,Active,40.69761,-73.93941
+8,Registered gas fired temporary boiler,Q01030926-I1-LA,I1,4/4/2024,Gas Plumbing Work,New Job Filing,4001730,3982 45 STREET,402,QUEENS,4/14/2026,Active,40.74723,-73.91913
+9,Registered gas fired temporary boiler,Q01129218-I1-LA,I1,10/18/2024,Gas Plumbing Work,New Job Filing,4231356,222-40 95 AVENUE,413,QUEENS,10/25/2025,Active,40.72005,-73.73059
+10,Registered gas fired temporary boiler,Q01152431-I1-LA,I1,12/6/2024,Gas Plumbing Work,New Job Filing,4234035,110-10 196 STREET,412,QUEENS,12/16/2025,Active,40.70415,-73.76083
+11,Registered gas fired temporary boiler,X01299404-I1-LA,I1,10/16/2025,Gas Plumbing Work,New Job Filing,2053422,2520 KINGSLAND AVENUE,211,BRONX,2/27/2026,Active,40.8633,-73.83864
+12,Temporary DOB registered oil fired mobile boiler,B00271553-I1-LA,I1,11/25/2019,Oil Work,New Job Filing,3042090,1958 FULTON STREET,303,BROOKLYN,7/6/2026,Active,40.67833,-73.91995
+13,Temporary DOB registered oil fired mobile boiler,B00781943-I1-LA,I1,7/26/2022,Oil Work,New Job Filing,3002558,210 JORALEMON STREET,302,BROOKLYN,12/31/2025,Active,40.69207,-73.99047
+14,Temporary DOB registered oil fired mobile boiler,B00807709-I1-LA,I1,1/4/2023,Oil Work,New Job Filing,3192661,345 VAN SICKLEN STREET,315,BROOKLYN,5/1/2026,Active,40.596,-73.97467
+15,Temporary DOB registered oil fired mobile boiler,B00852822-I1-LA,I1,3/30/2023,Oil Work,New Job Filing,3008506,120 RICHARDS STREET,306,BROOKLYN,12/31/2025,Active,40.67783,-74.00999
+16,Temporary DOB registered oil fired mobile boiler,B00909905-I1-LA,I1,7/26/2023,Oil Work,New Job Filing,3327832,295 JACKSON STREET,301,BROOKLYN,5/1/2026,Active,40.71807,-73.93845
+17,Temporary DOB registered oil fired mobile boiler,B00909986-I1-LA,I1,7/26/2023,Oil Work,New Job Filing,3327832,295 JACKSON STREET,301,BROOKLYN,5/1/2026,Active,40.71807,-73.93845
+18,Temporary DOB registered oil fired mobile boiler,B00915540-I1-LA,I1,8/7/2023,Oil Work,New Job Filing,3029254,542 PARK PLACE,308,BROOKLYN,1/4/2026,Active,40.67451,-73.95977
+19,Temporary DOB registered oil fired mobile boiler,B00919091-I1-LA,I1,8/14/2023,Oil Work,New Job Filing,3325172,329 PATCHEN AVENUE,303,BROOKLYN,5/1/2026,Active,40.68037,-73.92386
+20,Temporary DOB registered oil fired mobile boiler,B00919111-I1-LA,I1,8/14/2023,Oil Work,New Job Filing,3325172,329 PATCHEN AVENUE,303,BROOKLYN,5/1/2026,Active,40.68037,-73.92386
+21,Temporary DOB registered oil fired mobile boiler,B00939297-I1-LA,I1,9/25/2023,Oil Work,New Job Filing,3397349,602 SURF AVENUE,313,BROOKLYN,1/1/2026,Active,40.57435,-73.9754
+22,Temporary DOB registered oil fired mobile boiler,B00948040-I1-LA,I1,10/13/2023,Oil Work,New Job Filing,3339261,450 FLATBUSH AVENUE,355,BROOKLYN,7/6/2026,Active,40.66138,-73.96964
+23,Temporary DOB registered oil fired mobile boiler,B00950145-I1-LA,I1,10/18/2023,Oil Work,New Job Filing,3029670,260 EASTERN PARKWAY,309,BROOKLYN,1/1/2026,Active,40.67068,-73.96082
+24,Temporary DOB registered oil fired mobile boiler,B00959783-I1-LA,I1,11/8/2023,Oil Work,New Job Filing,3229624,1106 EAST 95 STREET,318,BROOKLYN,5/1/2026,Active,40.64332,-73.90351
+25,Temporary DOB registered oil fired mobile boiler,B00979963-I1-LA,I1,12/19/2023,Oil Work,New Job Filing,3002557,65 COURT STREET,302,BROOKLYN,1/1/2026,Active,40.69177,-73.99098
+26,Temporary DOB registered oil fired mobile boiler,B01006002-I1-LA,I1,2/15/2024,Oil Work,New Job Filing,3154775,9115 5 AVENUE,310,BROOKLYN,5/1/2026,Active,40.61808,-74.0285
+27,Temporary DOB registered oil fired mobile boiler,B01053609-I1-LA,I1,5/20/2024,Oil Work,New Job Filing,3331441,9820 SEAVIEW AVENUE,318,BROOKLYN,5/1/2026,Active,40.63334,-73.88597
+28,Temporary DOB registered oil fired mobile boiler,B01059177-I1-LA,I1,5/30/2024,Oil Work,New Job Filing,3331441,9820 SEAVIEW AVENUE,318,BROOKLYN,5/1/2026,Active,40.63334,-73.88597
+29,Temporary DOB registered oil fired mobile boiler,B01066548-I1-LA,I1,6/13/2024,Oil Work,New Job Filing,3325919,234 SAND STREET,302,BROOKLYN,3/31/2026,Active,40.69903,-73.9817
+30,Temporary DOB registered oil fired mobile boiler,B01084764-I1-LA,I1,7/23/2024,Oil Work,New Job Filing,3338597,991 MYRTLE AVENUE,303,BROOKLYN,3/31/2026,Active,40.69722,-73.94204
+31,Temporary DOB registered oil fired mobile boiler,B01126726-I1-LA,I1,10/14/2024,Oil Work,New Job Filing,3325685,1259 GREENE AVENUE,304,BROOKLYN,1/4/2026,Active,40.69695,-73.92116
+32,Temporary DOB registered oil fired mobile boiler,B01134362-I1-LA,I1,10/29/2024,Oil Work,New Job Filing,3076768,440 CENTRAL AVENUE,304,BROOKLYN,10/29/2025,Active,40.69262,-73.91609
+33,Temporary DOB registered oil fired mobile boiler,B01144049-I1-LA,I1,11/18/2024,Oil Work,New Job Filing,3325657,251 CENTRAL AVENUE,304,BROOKLYN,11/18/2025,Active,40.69728,-73.92213
+34,Temporary DOB registered oil fired mobile boiler,B01144049-I1-LA,I1,11/18/2024,Oil Work,New Job Filing,3325657,251 CENTRAL AVENUE,304,BROOKLYN,1/4/2026,Active,40.69728,-73.92213
+35,Temporary DOB registered oil fired mobile boiler,B01146610-I1-LA,I1,11/22/2024,Oil Work,New Job Filing,3000080,11 FRONT STREET,302,BROOKLYN,11/22/2025,Active,40.70301,-73.99304
+36,Temporary DOB registered oil fired mobile boiler,B01151613-I1-LA,I1,12/5/2024,Oil Work,New Job Filing,3116512,142 ST PAULS PLACE,314,BROOKLYN,12/5/2025,Active,40.65023,-73.96275
+37,Temporary DOB registered oil fired mobile boiler,B01154633-I1-LA,I1,12/11/2024,Oil Work,New Job Filing,3097445,721 VAN SICLEN AVENUE,305,BROOKLYN,12/13/2025,Active,40.66192,-73.88634
+38,Temporary DOB registered oil fired mobile boiler,B01156193-I1-LA,I1,12/16/2024,Oil Work,New Job Filing,3127828,665 OCEAN PARKWAY,314,BROOKLYN,12/16/2025,Active,40.63231,-73.97135
+39,Temporary DOB registered oil fired mobile boiler,B01158552-I1-LA,I1,12/19/2024,Oil Work,New Job Filing,3108105,440 LENOX ROAD,317,BROOKLYN,12/19/2025,Active,40.6541,-73.94463
+40,Temporary DOB registered oil fired mobile boiler,B01159441-I1-LA,I1,12/23/2024,Oil Work,New Job Filing,3328819,6702 3 AVENUE,310,BROOKLYN,12/23/2025,Active,40.63765,-74.02584
+41,Temporary DOB registered oil fired mobile boiler,B01178626-I1-LA,I1,2/10/2025,Oil Work,New Job Filing,3426287,265 LOGAN STREET,305,BROOKLYN,12/31/2025,Active,40.6797,-73.87695
+42,Temporary DOB registered oil fired mobile boiler,B01190402-I1-LA,I1,3/5/2025,Oil Work,New Job Filing,3413996,491 KEAP STREET,301,BROOKLYN,1/4/2026,Active,40.7136,-73.95255
+43,Temporary DOB registered oil fired mobile boiler,B01191037-I1-LA,I1,3/6/2025,Oil Work,New Job Filing,3331441,9820 SEAVIEW AVENUE,318,BROOKLYN,5/1/2026,Active,40.63334,-73.88597
+44,Temporary DOB registered oil fired mobile boiler,B01209824-I1-LA,I1,4/11/2025,Oil Work,New Job Filing,3080792,698 RALPH AVENUE,316,BROOKLYN,1/1/2026,Active,40.66581,-73.92286
+45,Temporary DOB registered oil fired mobile boiler,B01212038-I1-LA,I1,4/17/2025,Oil Work,New Job Filing,3036877,1483 ST JOHNS PLACE,308,BROOKLYN,1/1/2026,Active,40.6708,-73.92958
+46,Temporary DOB registered oil fired mobile boiler,B01217951-I1-LA,I1,4/29/2025,Oil Work,New Job Filing,3033531,1184 PRESIDENT STREET,309,BROOKLYN,1/4/2026,Active,40.66784,-73.95127
+47,Temporary DOB registered oil fired mobile boiler,B01220583-I1-LA,I1,5/5/2025,Oil Work,New Job Filing,3038674,2020 PACIFIC STREET,316,BROOKLYN,12/31/2025,Active,40.67581,-73.91903
+48,Temporary DOB registered oil fired mobile boiler,B01236601-I1-LA,I1,6/5/2025,Oil Work,New Job Filing,3029330,315 ST JOHNS PLACE,308,BROOKLYN,6/5/2026,Active,40.67471,-73.96738
+49,Temporary DOB registered oil fired mobile boiler,B01243774-I1-LA,I1,6/19/2025,Oil Work,New Job Filing,3136912,4601 11 AVENUE,312,BROOKLYN,3/30/2026,Active,40.63903,-73.99472
+50,Temporary DOB registered oil fired mobile boiler,B01245484-I1-LA,I1,6/23/2025,Oil Work,New Job Filing,3326901,60 WEST END AVENUE,315,BROOKLYN,1/4/2026,Active,40.58038,-73.95392
+51,Temporary DOB registered oil fired mobile boiler,B01252325-I1-LA,I1,7/8/2025,Oil Work,New Job Filing,3029330,315 ST JOHNS PLACE,308,BROOKLYN,6/24/2026,Active,40.67471,-73.96738
+52,Temporary DOB registered oil fired mobile boiler,B01253307-I1-LA,I1,7/9/2025,Oil Work,New Job Filing,3001940,200 HICKS STREET,302,BROOKLYN,12/31/2025,Active,40.69548,-73.99596
+53,Temporary DOB registered oil fired mobile boiler,B01254604-I1-LA,I1,7/11/2025,Oil Work,New Job Filing,3379187,115 LINCOLN ROAD,309,BROOKLYN,3/30/2026,Active,40.66146,-73.95866
+54,Temporary DOB registered oil fired mobile boiler,B01255923-I1-LA,I1,7/15/2025,Oil Work,New Job Filing,3035247,145 LINCOLN ROAD,309,BROOKLYN,1/1/2026,Active,40.66138,-73.95788
+55,Temporary DOB registered oil fired mobile boiler,B01256621-I1-LA,I1,7/16/2025,Oil Work,New Job Filing,3155252,354 93 STREET,310,BROOKLYN,1/1/2026,Active,40.61784,-74.03165
+56,Temporary DOB registered oil fired mobile boiler,B01262828-I1-LA,I1,7/29/2025,Oil Work,New Job Filing,3002543,75 LIVINGSTON STREET,302,BROOKLYN,12/31/2025,Active,40.69188,-73.99164
+57,Temporary DOB registered oil fired mobile boiler,B01269492-I1-LA,I1,8/11/2025,Oil Work,New Job Filing,3147358,7212 4 AVENUE,310,BROOKLYN,3/30/2026,Active,40.63274,-74.02465
+58,Temporary DOB registered oil fired mobile boiler,B01270093-I1-LA,I1,8/12/2025,Oil Work,New Job Filing,3147359,7224 4 AVENUE,310,BROOKLYN,3/30/2026,Active,40.63248,-74.02477
+59,Temporary DOB registered oil fired mobile boiler,B01271877-I1-LA,I1,8/14/2025,Oil Work,New Job Filing,3024704,1 PROSPECT PARK WEST,306,BROOKLYN,12/31/2025,Active,40.67229,-73.97095
+60,Temporary DOB registered oil fired mobile boiler,B01276077-I1-LA,I1,9/8/2025,Oil Work,New Job Filing,3183162,1900 QUENTIN ROAD,315,BROOKLYN,3/30/2026,Active,40.60834,-73.95387
+61,Temporary DOB registered oil fired mobile boiler,B01285054-I1-LA,I1,9/10/2025,Oil Work,New Job Filing,3321866,456 DEKALB AVENUE,303,BROOKLYN,5/1/2026,Active,40.68979,-73.95866
+62,Temporary DOB registered oil fired mobile boiler,B01285171-I1-LA,I1,9/10/2025,Oil Work,New Job Filing,3321866,456 DEKALB AVENUE,303,BROOKLYN,5/1/2026,Active,40.68979,-73.95866
+63,Temporary DOB registered oil fired mobile boiler,B01292757-I1-LA,I1,9/24/2025,Oil Work,New Job Filing,3324730,10 LEWIS AVENUE,303,BROOKLYN,12/31/2025,Active,40.69761,-73.93941
+64,Temporary DOB registered oil fired mobile boiler,B01303465-I1-LA,I1,10/15/2025,Oil Work,New Job Filing,3000080,11 FRONT STREET,302,BROOKLYN,12/31/2025,Active,40.70301,-73.99304
+65,Temporary DOB registered oil fired mobile boiler,B08016137-I1-LA,I1,10/5/2022,Oil Work,New Job Filing,3152318,8301 SHORE ROAD,310,BROOKLYN,5/1/2026,Active,40.62681,-74.03808
+66,Temporary DOB registered oil fired mobile boiler,M00235734-I1-LA,I1,9/26/2019,Oil Work,New Job Filing,1044722,349 EAST 65 STREET,108,MANHATTAN,3/30/2026,Active,40.76373,-73.95937
+67,Temporary DOB registered oil fired mobile boiler,M00262400-I1-LA,I1,11/11/2019,Oil Work,New Job Filing,1004564,730 EAST 12 STREET,103,MANHATTAN,1/1/2026,Active,40.72601,-73.97506
+68,Temporary DOB registered oil fired mobile boiler,M00314502-I1-LA,I1,2/12/2020,Oil Work,New Job Filing,1063382,617 WEST 168 STREET,112,MANHATTAN,1/1/2026,Active,40.84175,-73.9404
+69,Temporary DOB registered oil fired mobile boiler,M00782962-I1-LA,I1,7/28/2022,Oil Work,New Job Filing,1077587,675 WATER STREET,103,MANHATTAN,12/31/2025,Active,40.71117,-73.98203
+70,Temporary DOB registered oil fired mobile boiler,M00804405-I1-LA,I1,12/26/2022,Oil Work,New Job Filing,1063302,3815 BROADWAY,112,MANHATTAN,1/1/2026,Active,40.83528,-73.94449
+71,Temporary DOB registered oil fired mobile boiler,M00831433-I1-LA,I1,2/17/2023,Oil Work,New Job Filing,1081366,315 EAST 113 STREET,111,MANHATTAN,5/1/2026,Active,40.795,-73.93842
+72,Temporary DOB registered oil fired mobile boiler,M00837893-I1-LA,I1,3/2/2023,Oil Work,New Job Filing,1006478,185 FIRST AVENUE,103,MANHATTAN,5/1/2026,Active,40.73,-73.98448
+73,Temporary DOB registered oil fired mobile boiler,M00870294-I1-LA,I1,5/4/2023,Oil Work,New Job Filing,1074333,216 EAST 120 STREET,111,MANHATTAN,5/1/2026,Active,40.79972,-73.93716
+74,Temporary DOB registered oil fired mobile boiler,M00917265-I1-LA,I1,8/10/2023,Oil Work,New Job Filing,1054377,1980 LEXINGTON AVENUE,111,MANHATTAN,12/31/2025,Active,40.80176,-73.94013
+75,Temporary DOB registered oil fired mobile boiler,M00927830-I1-LA,I1,8/31/2023,Oil Work,New Job Filing,1077586,645 WATER STREET,103,MANHATTAN,12/31/2025,Active,40.71117,-73.98203
+76,Temporary DOB registered oil fired mobile boiler,M00934815-I1-LA,I1,9/15/2023,Oil Work,New Job Filing,1059526,425 WEST 123 STREET,109,MANHATTAN,5/1/2026,Active,40.81079,-73.95573
+77,Temporary DOB registered oil fired mobile boiler,M00941667-I1-LA,I1,9/29/2023,Oil Work,New Job Filing,1063703,511 WEST 182 STREET,112,MANHATTAN,5/1/2026,Active,40.84926,-73.93092
+78,Temporary DOB registered oil fired mobile boiler,M00942256-I1-LA,I1,10/2/2023,Oil Work,New Job Filing,1062994,560 WEST 169 STREET,112,MANHATTAN,5/1/2026,Active,40.84106,-73.93875
+79,Temporary DOB registered oil fired mobile boiler,M00945527-I1-LA,I1,10/10/2023,Oil Work,New Job Filing,1057495,102 WEST 119 STREET,110,MANHATTAN,10/31/2025,Active,40.804,-73.94897
+80,Temporary DOB registered oil fired mobile boiler,M00967566-I1-LA,I1,11/27/2023,Oil Work,New Job Filing,1085360,106 WEST 139 STREET,110,MANHATTAN,12/3/2025,Active,40.81676,-73.93986
+81,Temporary DOB registered oil fired mobile boiler,M01003435-I1-LA,I1,2/9/2024,Oil Work,New Job Filing,1081114,2130 MADISON AVENUE,111,MANHATTAN,3/5/2026,Active,40.81132,-73.93757
+82,Temporary DOB registered oil fired mobile boiler,M01006118-I1-LA,I1,2/15/2024,Oil Work,New Job Filing,1081114,2130 MADISON AVENUE,111,MANHATTAN,2/18/2026,Active,40.81132,-73.93757
+83,Temporary DOB registered oil fired mobile boiler,M01042418-I1-LA,I1,4/26/2024,Oil Work,New Job Filing,1081122,2135 MADISON AVENUE,111,MANHATTAN,2/28/2026,Active,40.81077,-73.93604
+84,Temporary DOB registered oil fired mobile boiler,M01043047-I1-LA,I1,4/30/2024,Oil Work,New Job Filing,1081123,2123 MADISON AVENUE,111,MANHATTAN,10/23/2025,Active,40.81077,-73.93604
+85,Temporary DOB registered oil fired mobile boiler,M01043047-I1-LA,I1,4/30/2024,Oil Work,New Job Filing,1081123,2123 MADISON AVENUE,111,MANHATTAN,8/27/2026,Active,40.81077,-73.93604
+86,Temporary DOB registered oil fired mobile boiler,M01043932-I1-LA,I1,4/30/2024,Oil Work,New Job Filing,1077540,819 FDR,103,MANHATTAN,10/23/2025,Active,40.72385,-73.97475
+87,Temporary DOB registered oil fired mobile boiler,M01043932-I1-LA,I1,4/30/2024,Oil Work,New Job Filing,1077540,819 FDR,103,MANHATTAN,10/23/2025,Active,40.72385,-73.97475
+88,Temporary DOB registered oil fired mobile boiler,M01043932-I1-LA,I1,4/30/2024,Oil Work,New Job Filing,1077540,819 FDR,103,MANHATTAN,8/27/2026,Active,40.72385,-73.97475
+89,Temporary DOB registered oil fired mobile boiler,M01049108-I1-LA,I1,5/9/2024,Oil Work,New Job Filing,1079828,333 BOWERY,103,MANHATTAN,12/31/2025,Active,40.72583,-73.99157
+90,Temporary DOB registered oil fired mobile boiler,M01055116-I1-LA,I1,5/22/2024,Oil Work,New Job Filing,1033752,90 RIVERSIDE DRIVE,107,MANHATTAN,12/31/2025,Active,40.78619,-73.98088
+91,Temporary DOB registered oil fired mobile boiler,M01109068-I1-LA,I1,9/10/2024,Oil Work,New Job Filing,1010636,148 WEST 14 STREET,102,MANHATTAN,3/30/2026,Active,40.73803,-73.99919
+92,Temporary DOB registered oil fired mobile boiler,M01117042-I1-LA,I1,9/25/2024,Oil Work,New Job Filing,1008951,123 WAVERLY PLACE,102,MANHATTAN,7/7/2026,Active,40.73291,-73.99944
+93,Temporary DOB registered oil fired mobile boiler,M01117447-I1-LA,I1,9/25/2024,Oil Work,New Job Filing,1032754,466 WEST END AVENUE,107,MANHATTAN,5/1/2026,Active,40.78633,-73.97923
+94,Temporary DOB registered oil fired mobile boiler,M01131298-I1-LA,I1,10/23/2024,Oil Work,New Job Filing,1061982,503 WEST 147 STREET,109,MANHATTAN,10/23/2025,Active,40.82694,-73.94704
+95,Temporary DOB registered oil fired mobile boiler,M01131322-I1-LA,I1,10/23/2024,Oil Work,New Job Filing,1078347,251 EAST 60 STREET,108,MANHATTAN,10/23/2025,Active,40.76167,-73.96394
+96,Temporary DOB registered oil fired mobile boiler,M01137590-I1-LA,I1,11/5/2024,Oil Work,New Job Filing,1052542,232 EAST 116 STREET,111,MANHATTAN,11/5/2025,Active,40.79716,-73.9389
+97,Temporary DOB registered oil fired mobile boiler,M01138251-I1-LA,I1,11/6/2024,Oil Work,New Job Filing,1078348,252 EAST 61 STREET,108,MANHATTAN,11/6/2025,Active,40.76167,-73.96394
+98,Temporary DOB registered oil fired mobile boiler,M01141698-I1-LA,I1,11/13/2024,Oil Work,New Job Filing,1044377,330 EAST 63 STREET,108,MANHATTAN,11/13/2025,Active,40.76237,-73.96136
+99,Temporary DOB registered oil fired mobile boiler,M01145401-I1-LA,I1,11/20/2024,Oil Work,New Job Filing,1007580,112 MERCER STREET,102,MANHATTAN,11/20/2025,Active,40.72359,-73.99892
+100,Temporary DOB registered oil fired mobile boiler,M01145852-I1-LA,I1,11/21/2024,Oil Work,New Job Filing,1018312,161 LEXINGTON AVENUE,106,MANHATTAN,11/21/2025,Active,40.74388,-73.98121
+101,Temporary DOB registered oil fired mobile boiler,M01148673-I1-LA,I1,11/27/2024,Oil Work,New Job Filing,1020564,320 EAST 22 STREET,106,MANHATTAN,11/27/2025,Active,40.7365,-73.98026
+102,Temporary DOB registered oil fired mobile boiler,M01149185-I1-LA,I1,11/29/2024,Oil Work,New Job Filing,1059691,545 WEST 125 STREET,109,MANHATTAN,11/29/2025,Active,40.8149,-73.95718
+103,Temporary DOB registered oil fired mobile boiler,M01149328-I1-LA,I1,12/2/2024,Oil Work,New Job Filing,1082351,3009 BROADWAY,109,MANHATTAN,12/2/2025,Active,40.80927,-73.9637
+104,Temporary DOB registered oil fired mobile boiler,M01149328-I1-LA,I1,12/2/2024,Oil Work,New Job Filing,1082351,3009 BROADWAY,109,MANHATTAN,12/2/2025,Active,40.80927,-73.9637
+105,Temporary DOB registered oil fired mobile boiler,M01151463-I1-LA,I1,12/5/2024,Oil Work,New Job Filing,1042114,156 EAST 64 STREET,108,MANHATTAN,12/5/2025,Active,40.76511,-73.96582
+106,Temporary DOB registered oil fired mobile boiler,M01151860-I1-LA,I1,12/5/2024,Oil Work,New Job Filing,1076752,4360 BROADWAY,112,MANHATTAN,5/1/2026,Active,40.85323,-73.93362
+107,Temporary DOB registered oil fired mobile boiler,M01154032-I1-LA,I1,12/10/2024,Oil Work,New Job Filing,1043104,112 EAST 75 STREET,108,MANHATTAN,12/11/2025,Active,40.77257,-73.96185
+108,Temporary DOB registered oil fired mobile boiler,M01157165-I1-LA,I1,12/17/2024,Oil Work,New Job Filing,1014547,145 WEST 15 STREET,104,MANHATTAN,12/17/2025,Active,40.73896,-73.9979
+109,Temporary DOB registered oil fired mobile boiler,M01158608-I1-LA,I1,12/19/2024,Oil Work,New Job Filing,1002933,205 HUDSON STREET,101,MANHATTAN,12/19/2025,Active,40.72363,-74.00844
+110,Temporary DOB registered oil fired mobile boiler,M01162674-I1-LA,I1,1/3/2025,Oil Work,New Job Filing,1045238,311 EAST 78 STREET,108,MANHATTAN,12/31/2025,Active,40.77253,-73.95467
+111,Temporary DOB registered oil fired mobile boiler,M01164734-I1-LA,I1,1/9/2025,Oil Work,New Job Filing,1082709,435 WEST 23 STREET,104,MANHATTAN,12/31/2025,Active,40.74744,-74.00249
+112,Temporary DOB registered oil fired mobile boiler,M01168132-I1-LA,I1,1/16/2025,Oil Work,New Job Filing,1062319,603 WEST 140 STREET,109,MANHATTAN,12/31/2025,Active,40.82375,-73.95335
+113,Temporary DOB registered oil fired mobile boiler,M01169049-I1-LA,I1,1/19/2025,Oil Work,New Job Filing,1055734,70 WEST 109 STREET,107,MANHATTAN,1/19/2026,Active,40.80076,-73.96107
+114,Temporary DOB registered oil fired mobile boiler,M01170497-I1-LA,I1,1/22/2025,Oil Work,New Job Filing,1088836,148 EAST 24 STREET,106,MANHATTAN,1/22/2026,Active,40.7398,-73.98393
+115,Temporary DOB registered oil fired mobile boiler,M01170553-I1-LA,I1,1/22/2025,Oil Work,New Job Filing,1077787,5 KING STREET,102,MANHATTAN,12/31/2025,Active,40.72781,-74.00285
+116,Temporary DOB registered oil fired mobile boiler,M01171350-I1-LA,I1,1/24/2025,Oil Work,New Job Filing,1062991,1150 ST NICHOLAS AVENUE,112,MANHATTAN,1/1/2026,Active,40.84039,-73.93906
+117,Temporary DOB registered oil fired mobile boiler,M01174099-I1-LA,I1,1/30/2025,Oil Work,New Job Filing,1084125,545 WEST 126 STREET,109,MANHATTAN,12/31/2025,Active,40.8168,-73.95544
+118,Temporary DOB registered oil fired mobile boiler,M01175088-I1-LA,I1,2/1/2025,Oil Work,New Job Filing,1084124,3250 BROADWAY,109,MANHATTAN,12/31/2025,Active,40.8168,-73.95544
+119,Temporary DOB registered oil fired mobile boiler,M01175094-I1-LA,I1,2/1/2025,Oil Work,New Job Filing,1084127,1414 AMSTERDAM AVENUE,109,MANHATTAN,12/31/2025,Active,40.8168,-73.95544
+120,Temporary DOB registered oil fired mobile boiler,M01175109-I1-LA,I1,2/1/2025,Oil Work,New Job Filing,1032634,412 AMSTERDAM AVENUE,107,MANHATTAN,12/31/2025,Active,40.78373,-73.9783
+121,Temporary DOB registered oil fired mobile boiler,M01176515-I1-LA,I1,2/4/2025,Oil Work,New Job Filing,1084128,1430 AMSTERDAM AVENUE,109,MANHATTAN,12/31/2025,Active,40.8168,-73.95544
+122,Temporary DOB registered oil fired mobile boiler,M01176776-I1-LA,I1,2/5/2025,Oil Work,New Job Filing,1084129,1470 AMSTERDAM AVENUE,109,MANHATTAN,12/31/2025,Active,40.8168,-73.95544
+123,Temporary DOB registered oil fired mobile boiler,M01176811-I1-LA,I1,2/5/2025,Oil Work,New Job Filing,1084130,95 OLD BROADWAY,109,MANHATTAN,12/31/2025,Active,40.8168,-73.95544
+124,Temporary DOB registered oil fired mobile boiler,M01179443-I1-LA,I1,2/11/2025,Oil Work,New Job Filing,1045954,427 EAST 76 STREET,108,MANHATTAN,1/4/2026,Active,40.77,-73.95259
+125,Temporary DOB registered oil fired mobile boiler,M01190154-I1-LA,I1,3/5/2025,Oil Work,New Job Filing,1019495,110 EAST 40 STREET,106,MANHATTAN,3/5/2026,Active,40.75035,-73.97804
+126,Temporary DOB registered oil fired mobile boiler,M01193753-I1-LA,I1,3/12/2025,Oil Work,New Job Filing,1077547,1141 FDR DRIVE,103,MANHATTAN,3/12/2026,Active,40.72549,-73.97356
+127,Temporary DOB registered oil fired mobile boiler,M01195575-I1-LA,I1,3/14/2025,Oil Work,New Job Filing,1082314,60 EAST 102 STREET,111,MANHATTAN,12/31/2025,Active,40.78979,-73.9513
+128,Temporary DOB registered oil fired mobile boiler,M01202768-I1-LA,I1,3/28/2025,Oil Work,New Job Filing,1083791,517 WEST 45 STREET,104,MANHATTAN,12/31/2025,Active,40.76223,-73.99509
+129,Temporary DOB registered oil fired mobile boiler,M01204888-I1-LA,I1,4/2/2025,Oil Work,New Job Filing,1011138,236 WEST 10 STREET,102,MANHATTAN,12/31/2025,Active,40.73367,-74.00547
+130,Temporary DOB registered oil fired mobile boiler,M01206767-I1-LA,I1,4/7/2025,Oil Work,New Job Filing,1063884,569 WEST 192 STREET,112,MANHATTAN,1/4/2026,Active,40.85612,-73.92798
+131,Temporary DOB registered oil fired mobile boiler,M01210993-I1-LA,I1,4/15/2025,Oil Work,New Job Filing,1053805,50 WEST 131 STREET,110,MANHATTAN,1/1/2026,Active,40.81098,-73.94193
+132,Temporary DOB registered oil fired mobile boiler,M01212011-I1-LA,I1,4/17/2025,Oil Work,New Job Filing,1006022,211 AVENUE A,103,MANHATTAN,12/31/2025,Active,40.72998,-73.98104
+133,Temporary DOB registered oil fired mobile boiler,M01212103-I1-LA,I1,4/17/2025,Oil Work,New Job Filing,1004377,268 EAST 2 STREET,103,MANHATTAN,12/31/2025,Active,40.72097,-73.98036
+134,Temporary DOB registered oil fired mobile boiler,M01213250-I1-LA,I1,4/21/2025,Oil Work,New Job Filing,1006837,245 EAST 11 STREET,103,MANHATTAN,12/31/2025,Active,40.73072,-73.98658
+135,Temporary DOB registered oil fired mobile boiler,M01214002-I1-LA,I1,4/22/2025,Oil Work,New Job Filing,1030848,336 WEST END AVENUE,107,MANHATTAN,12/31/2025,Active,40.7821,-73.98239
+136,Temporary DOB registered oil fired mobile boiler,M01214094-I1-LA,I1,4/22/2025,Oil Work,New Job Filing,1016970,32 EAST 31 STREET,105,MANHATTAN,12/31/2025,Active,40.7454,-73.98382
+137,Temporary DOB registered oil fired mobile boiler,M01214982-I1-LA,I1,4/23/2025,Oil Work,New Job Filing,1034138,308 WEST 94 STREET,107,MANHATTAN,12/31/2025,Active,40.79411,-73.97511
+138,Temporary DOB registered oil fired mobile boiler,M01216923-I1-LA,I1,4/28/2025,Oil Work,New Job Filing,1004376,286 EAST 2 STREET,103,MANHATTAN,12/31/2025,Active,40.72069,-73.9797
+139,Temporary DOB registered oil fired mobile boiler,M01222037-I1-LA,I1,5/7/2025,Oil Work,New Job Filing,1047434,60 EAST 96 STREET,108,MANHATTAN,12/31/2025,Active,40.78674,-73.95374
+140,Temporary DOB registered oil fired mobile boiler,M01223012-I1-LA,I1,5/8/2025,Oil Work,New Job Filing,1054357,166 EAST 119 STREET,111,MANHATTAN,1/4/2026,Active,40.80014,-73.9398
+141,Temporary DOB registered oil fired mobile boiler,M01226471-I1-LA,I1,5/15/2025,Oil Work,New Job Filing,1064220,12 DONGAN PLACE,112,MANHATTAN,3/30/2026,Active,40.86359,-73.92953
+142,Temporary DOB registered oil fired mobile boiler,M01236595-I1-LA,I1,6/5/2025,Oil Work,New Job Filing,1044858,303 EAST 71 STREET,108,MANHATTAN,6/5/2026,Active,40.76807,-73.95818
+143,Temporary DOB registered oil fired mobile boiler,M01237321-I1-LA,I1,6/6/2025,Oil Work,New Job Filing,1084000,2170 LEXINGTON AVENUE,111,MANHATTAN,7/6/2026,Active,40.80799,-73.93542
+144,Temporary DOB registered oil fired mobile boiler,M01237323-I1-LA,I1,6/6/2025,Oil Work,New Job Filing,1042117,136 EAST 64 STREET,108,MANHATTAN,12/31/2025,Active,40.76518,-73.96636
+145,Temporary DOB registered oil fired mobile boiler,M01240198-I1-LA,I1,6/13/2025,Oil Work,New Job Filing,1003215,35 MONTGOMERY STREET,103,MANHATTAN,12/31/2025,Active,40.7127,-73.98439
+146,Temporary DOB registered oil fired mobile boiler,M01242970-I1-LA,I1,6/18/2025,Oil Work,New Job Filing,1082911,3798 10 AVENUE,112,MANHATTAN,12/31/2025,Active,40.86115,-73.92268
+147,Temporary DOB registered oil fired mobile boiler,M01242971-I1-LA,I1,6/18/2025,Oil Work,New Job Filing,1082911,3798 10 AVENUE,112,MANHATTAN,12/31/2025,Active,40.86115,-73.92268
+148,Temporary DOB registered oil fired mobile boiler,M01242972-I1-LA,I1,6/18/2025,Oil Work,New Job Filing,1082911,3798 10 AVENUE,112,MANHATTAN,12/31/2025,Active,40.86115,-73.92268
+149,Temporary DOB registered oil fired mobile boiler,M01249081-I1-LA,I1,6/30/2025,Oil Work,New Job Filing,1014582,104 WEST 17 STREET,104,MANHATTAN,1/4/2026,Active,40.73928,-73.99606
+150,Temporary DOB registered oil fired mobile boiler,M01252103-I1-LA,I1,7/7/2025,Oil Work,New Job Filing,1065018,510 WEST 218 STREET,112,MANHATTAN,3/30/2026,Active,40.87122,-73.91483
+151,Temporary DOB registered oil fired mobile boiler,M01252319-I1-LA,I1,7/8/2025,Oil Work,New Job Filing,1044858,303 EAST 71 STREET,108,MANHATTAN,6/24/2026,Active,40.76807,-73.95818
+152,Temporary DOB registered oil fired mobile boiler,M01253131-I1-LA,I1,7/14/2025,Oil Work,New Job Filing,1063581,24 LAUREL HILL TERRACE,112,MANHATTAN,12/31/2025,Active,40.84896,-73.92936
+153,Temporary DOB registered oil fired mobile boiler,M01259494-I1-LA,I1,7/22/2025,Oil Work,New Job Filing,1017834,112 EAST 17 STREET,105,MANHATTAN,12/31/2025,Active,40.73595,-73.98811
+154,Temporary DOB registered oil fired mobile boiler,M01259513-I1-LA,I1,7/22/2025,Oil Work,New Job Filing,1038901,333 EAST 46 STREET,106,MANHATTAN,7/6/2026,Active,40.75205,-73.96899
+155,Temporary DOB registered oil fired mobile boiler,M01259513-I1-LA,I1,7/22/2025,Oil Work,New Job Filing,1038901,333 EAST 46 STREET,106,MANHATTAN,7/6/2026,Active,40.75205,-73.96899
+156,Temporary DOB registered oil fired mobile boiler,M01261478-I1-LA,I1,7/25/2025,Oil Work,New Job Filing,1044738,301 EAST 66 STREET,108,MANHATTAN,7/6/2026,Active,40.76517,-73.96061
+157,Temporary DOB registered oil fired mobile boiler,M01261936-I1-LA,I1,7/28/2025,Oil Work,New Job Filing,1033951,334 WEST 87 STREET,107,MANHATTAN,12/31/2025,Active,40.79001,-73.97901
+158,Temporary DOB registered oil fired mobile boiler,M01264533-I1-LA,I1,7/31/2025,Oil Work,New Job Filing,1043975,230 EAST 73 STREET,108,MANHATTAN,12/31/2025,Active,40.76959,-73.95872
+159,Temporary DOB registered oil fired mobile boiler,M01265781-I1-LA,I1,8/5/2025,Oil Work,New Job Filing,1052617,231 EAST 117 STREET,111,MANHATTAN,12/31/2025,Active,40.79821,-73.93797
+160,Temporary DOB registered oil fired mobile boiler,M01266861-I1-LA,I1,8/5/2025,Oil Work,New Job Filing,1006441,322 EAST 11 STREET,103,MANHATTAN,12/31/2025,Active,40.72968,-73.98528
+161,Temporary DOB registered oil fired mobile boiler,M01270318-I1-LA,I1,8/12/2025,Oil Work,New Job Filing,1079120,415 WEST 50 STREET,104,MANHATTAN,12/31/2025,Active,40.76406,-73.98972
+162,Temporary DOB registered oil fired mobile boiler,M01271708-I1-LA,I1,8/14/2025,Oil Work,New Job Filing,1018079,330 3 AVENUE,106,MANHATTAN,12/31/2025,Active,40.73987,-73.98277
+163,Temporary DOB registered oil fired mobile boiler,M01273101-I1-LA,I1,8/18/2025,Oil Work,New Job Filing,1025137,319 WEST 48 STREET,104,MANHATTAN,12/31/2025,Active,40.76175,-73.98794
+164,Temporary DOB registered oil fired mobile boiler,M01276796-I1-LA,I1,8/25/2025,Oil Work,New Job Filing,1005211,528 EAST 13 STREET,103,MANHATTAN,1/1/2026,Active,40.72897,-73.97967
+165,Temporary DOB registered oil fired mobile boiler,M01288650-I1-LA,I1,9/17/2025,Oil Work,New Job Filing,1050380,418 EAST 81 STREET,108,MANHATTAN,3/30/2026,Active,40.77311,-73.95101
+166,Temporary DOB registered oil fired mobile boiler,M01294786-I1-LA,I1,9/29/2025,Oil Work,New Job Filing,1005295,250 BROOME STREET,103,MANHATTAN,1/4/2026,Active,40.71816,-73.98972
+167,Temporary DOB registered oil fired mobile boiler,M01295920-I1-LA,I1,10/1/2025,Oil Work,New Job Filing,1079833,355 BOWERY,103,MANHATTAN,12/31/2025,Active,40.72666,-73.99132
+168,Temporary DOB registered oil fired mobile boiler,M01298192-I1-LA,I1,10/6/2025,Oil Work,New Job Filing,1075858,99 AVENUE B,103,MANHATTAN,5/1/2026,Active,40.72463,-73.98122
+169,Temporary DOB registered oil fired mobile boiler,M01303286-I1-LA,I1,10/15/2025,Oil Work,New Job Filing,1010170,15 JONES STREET,102,MANHATTAN,12/31/2025,Active,40.73227,-74.00242
+170,Temporary DOB registered oil fired mobile boiler,M01304761-I1-LA,I1,10/17/2025,Oil Work,New Job Filing,1062745,551 WEST 157 STREET,112,MANHATTAN,4/28/2026,Active,40.83393,-73.94399
+171,Temporary DOB registered oil fired mobile boiler,M01306371-I1-LA,I1,10/21/2025,Oil Work,New Job Filing,1059883,45 TIEMANN PLACE,109,MANHATTAN,12/31/2025,Active,40.8157,-73.9592
+172,Temporary DOB registered oil fired mobile boiler,Q00806096-I1-LA,I1,12/30/2022,Oil Work,New Job Filing,4458024,4500 PARSONS BOULEVARD,407,QUEENS,1/1/2026,Active,40.75562,-73.81687
+173,Temporary DOB registered oil fired mobile boiler,Q00829690-I1-LA,I1,3/2/2023,Oil Work,New Job Filing,4137034,200-01 42 AVENUE,411,QUEENS,5/1/2026,Active,40.76023,-73.784
+174,Temporary DOB registered oil fired mobile boiler,Q00931401-I1-LA,I1,9/8/2023,Oil Work,New Job Filing,4163698,231-02 67 AVENUE,411,QUEENS,5/1/2026,Active,40.74746,-73.74541
+175,Temporary DOB registered oil fired mobile boiler,Q00976192-I1-LA,I1,12/12/2023,Oil Work,New Job Filing,4161005,53-11 SPRINGFIELD BOULEVARD,411,QUEENS,11/18/2025,Active,40.75361,-73.75982
+176,Temporary DOB registered oil fired mobile boiler,Q00976192-I1-LA,I1,12/12/2023,Oil Work,New Job Filing,4161005,53-11 SPRINGFIELD BOULEVARD,411,QUEENS,1/1/2026,Active,40.75361,-73.75982
+177,Temporary DOB registered oil fired mobile boiler,Q01067383-I1-LA,I1,6/17/2024,Oil Work,New Job Filing,4105232,147-27 15 DRIVE,407,QUEENS,12/31/2025,Active,40.7862,-73.81734
+178,Temporary DOB registered oil fired mobile boiler,Q01093990-I1-LA,I1,8/9/2024,Oil Work,New Job Filing,4455428,155-11 JEWEL AVENUE,408,QUEENS,2/28/2026,Active,40.73427,-73.81261
+179,Temporary DOB registered oil fired mobile boiler,Q01131918-I1-LA,I1,10/24/2024,Oil Work,New Job Filing,4447533,69-90 137 STREET,408,QUEENS,10/24/2025,Active,40.72752,-73.82825
+180,Temporary DOB registered oil fired mobile boiler,Q01135074-I1-LA,I1,10/30/2024,Oil Work,New Job Filing,4007449,32-35 30 STREET,401,QUEENS,11/4/2025,Active,40.76122,-73.92676
+181,Temporary DOB registered oil fired mobile boiler,Q01145075-I1-LA,I1,11/20/2024,Oil Work,New Job Filing,4009586,35-20 35 STREET,401,QUEENS,11/20/2025,Active,40.75613,-73.92604
+182,Temporary DOB registered oil fired mobile boiler,Q01147921-I1-LA,I1,11/26/2024,Oil Work,New Job Filing,4534900,44-27 PURVES STREET,402,QUEENS,11/26/2025,Active,40.74677,-73.94072
+183,Temporary DOB registered oil fired mobile boiler,Q01149315-I1-LA,I1,12/2/2024,Oil Work,New Job Filing,4438502,101-60 92 STREET,409,QUEENS,12/2/2025,Active,40.68222,-73.84819
+184,Temporary DOB registered oil fired mobile boiler,Q01151910-I1-LA,I1,12/5/2024,Oil Work,New Job Filing,4225414,89-15 FRANCIS LEWIS BOULEVARD,413,QUEENS,12/6/2025,Active,40.71926,-73.75754
+185,Temporary DOB registered oil fired mobile boiler,Q01152767-I1-LA,I1,12/9/2024,Oil Work,New Job Filing,4029990,37-40 81 STREET,403,QUEENS,12/9/2025,Active,40.74844,-73.88531
+186,Temporary DOB registered oil fired mobile boiler,Q01161433-I1-LA,I1,12/31/2024,Oil Work,New Job Filing,4447533,69-90 137 STREET,408,QUEENS,12/31/2025,Active,40.72752,-73.82825
+187,Temporary DOB registered oil fired mobile boiler,Q01162524-I1-LA,I1,1/3/2025,Oil Work,New Job Filing,4591928,111-10 115 STREET,410,QUEENS,1/3/2026,Active,40.6788,-73.8248
+188,Temporary DOB registered oil fired mobile boiler,Q01175702-I1-LA,I1,2/3/2025,Oil Work,New Job Filing,4065242,86-16 60 AVENUE,406,QUEENS,2/5/2026,Active,40.73063,-73.87318
+189,Temporary DOB registered oil fired mobile boiler,Q01223402-I1-LA,I1,5/9/2025,Oil Work,New Job Filing,4438312,61-00 FRANCIS LEWIS BOULEVARD,408,QUEENS,5/12/2026,Active,40.74229,-73.77642
+190,Temporary DOB registered oil fired mobile boiler,Q01234031-I1-LA,I1,5/30/2025,Oil Work,New Job Filing,4464063,130-02 SOUTH CONDUIT AVENUE,410,QUEENS,12/31/2025,Active,40.66585,-73.80966
+191,Temporary DOB registered oil fired mobile boiler,Q01237177-I1-LA,I1,6/5/2025,Oil Work,New Job Filing,4007451,32-15 30 STREET,401,QUEENS,3/30/2026,Active,40.76174,-73.92635
+192,Temporary DOB registered oil fired mobile boiler,Q01270842-I1-LA,I1,8/13/2025,Oil Work,New Job Filing,4029983,37-41 79 STREET,403,QUEENS,3/30/2026,Active,40.74824,-73.88659
+193,Temporary DOB registered oil fired mobile boiler,Q01271380-I1-LA,I1,8/13/2025,Oil Work,New Job Filing,4223679,188-34 87 DRIVE,408,QUEENS,3/30/2026,Active,40.71592,-73.77252
+194,Temporary DOB registered oil fired mobile boiler,Q01288774-I1-LA,I1,9/19/2025,Oil Work,New Job Filing,4445259,105-00 SHORE FRONT PARKWAY,414,QUEENS,12/31/2025,Active,40.58261,-73.824
+195,Temporary DOB registered oil fired mobile boiler,Q01289422-I1-LA,I1,9/19/2025,Oil Work,New Job Filing,4457805,7400 SHORE FRONT PARKWAY,414,QUEENS,12/31/2025,Active,40.58761,-73.80297
+196,Temporary DOB registered oil fired mobile boiler,Q01297320-I1-LA,I1,10/3/2025,Oil Work,New Job Filing,4529893,21-05 30 DRIVE,401,QUEENS,12/31/2025,Active,40.76827,-73.92858
+197,Temporary DOB registered oil fired mobile boiler,S00750435-I1-LA,I1,6/2/2022,Oil Work,New Job Filing,5079499,200 NEDRA LANE,503,STATEN ISLAND,12/31/2025,Active,40.55205,-74.19527
+198,Temporary DOB registered oil fired mobile boiler,S00808765-I1-LA,I1,1/6/2023,Oil Work,New Job Filing,5069075,54 OSBORNE STREET,503,STATEN ISLAND,5/1/2026,Active,40.53662,-74.16306
+199,Temporary DOB registered oil fired mobile boiler,S00809201-I1-LA,I1,1/6/2023,Oil Work,New Job Filing,5082757,375 SEGUINE AVENUE,503,STATEN ISLAND,12/12/2025,Active,40.51698,-74.19614
+200,Temporary DOB registered oil fired mobile boiler,S00857974-I1-LA,I1,4/11/2023,Oil Work,New Job Filing,5113454,1 CAMPUS ROAD,501,STATEN ISLAND,12/31/2025,Active,40.61827,-74.09327
+201,Temporary DOB registered oil fired mobile boiler,S00858166-I1-LA,I1,4/12/2023,Oil Work,New Job Filing,5113454,1 CAMPUS ROAD,501,STATEN ISLAND,12/31/2025,Active,40.61827,-74.09327
+202,Temporary DOB registered oil fired mobile boiler,S00858795-I1-LA,I1,4/12/2023,Oil Work,New Job Filing,5113454,1 CAMPUS ROAD,501,STATEN ISLAND,12/31/2025,Active,40.61827,-74.09327
+203,Temporary DOB registered oil fired mobile boiler,S08022675-I1-LA,I1,10/18/2022,Oil Work,New Job Filing,5001150,55 LAYTON AVENUE,501,STATEN ISLAND,5/1/2026,Active,40.64203,-74.08546
+204,Temporary DOB registered oil fired mobile boiler,X00270849-I1-LA,I1,11/22/2019,Oil Work,New Job Filing,2000101,535 EAST 142 STREET,201,BRONX,7/7/2026,Active,40.81046,-73.91676
+205,Temporary DOB registered oil fired mobile boiler,X00877977-I1-LA,I1,5/19/2023,Oil Work,New Job Filing,2012957,2055 MAPES AVENUE,206,BRONX,12/31/2025,Active,40.84613,-73.88672
+206,Temporary DOB registered oil fired mobile boiler,X00890930-I1-LA,I1,6/15/2023,Oil Work,New Job Filing,2066190,3750 BAYCHESTER AVENUE,212,BRONX,12/31/2025,Active,40.88644,-73.84005
+207,Temporary DOB registered oil fired mobile boiler,X00894343-I1-LA,I1,6/22/2023,Oil Work,New Job Filing,2009489,3958 PARK AVENUE,203,BRONX,12/31/2025,Active,40.84148,-73.90216
+208,Temporary DOB registered oil fired mobile boiler,X00915328-I1-LA,I1,8/7/2023,Oil Work,New Job Filing,2091098,340 ALEXANDER AVENUE,201,BRONX,5/1/2026,Active,40.81211,-73.92216
+209,Temporary DOB registered oil fired mobile boiler,X00920684-I1-LA,I1,8/16/2023,Oil Work,New Job Filing,2006470,1315 LAFAYETTE AVENUE,202,BRONX,12/31/2025,Active,40.81716,-73.88647
+210,Temporary DOB registered oil fired mobile boiler,X00940551-I1-LA,I1,9/27/2023,Oil Work,New Job Filing,2093923,304 EAST 156 STREET,201,BRONX,2/28/2026,Active,40.82076,-73.91955
+211,Temporary DOB registered oil fired mobile boiler,X00941116-I1-LA,I1,9/28/2023,Oil Work,New Job Filing,2093361,840 ASTOR AVENUE,211,BRONX,2/28/2026,Active,40.8588,-73.86322
+212,Temporary DOB registered oil fired mobile boiler,X00941126-I1-LA,I1,9/28/2023,Oil Work,New Job Filing,2093367,2215 BRONXWOOD AVENUE,211,BRONX,2/28/2026,Active,40.8588,-73.86322
+213,Temporary DOB registered oil fired mobile boiler,X00947018-I1-LA,I1,10/12/2023,Oil Work,New Job Filing,2101747,635 ARNOW AVENUE,211,BRONX,10/23/2025,Active,40.86887,-73.86904
+214,Temporary DOB registered oil fired mobile boiler,X00947018-I1-LA,I1,10/12/2023,Oil Work,New Job Filing,2101747,635 ARNOW AVENUE,211,BRONX,10/23/2025,Active,40.86887,-73.86904
+215,Temporary DOB registered oil fired mobile boiler,X00947018-I1-LA,I1,10/12/2023,Oil Work,New Job Filing,2101747,635 ARNOW AVENUE,211,BRONX,8/27/2026,Active,40.86887,-73.86904
+216,Temporary DOB registered oil fired mobile boiler,X00993617-I1-LA,I1,1/22/2024,Oil Work,New Job Filing,2015172,2686 BAILEY AVENUE,207,BRONX,12/31/2025,Active,40.87123,-73.90628
+217,Temporary DOB registered oil fired mobile boiler,X01002013-I1-LA,I1,2/7/2024,Oil Work,New Job Filing,2097548,2035 EASTCHESTER ROAD,211,BRONX,12/31/2025,Active,40.85368,-73.84466
+218,Temporary DOB registered oil fired mobile boiler,X01019661-I1-LA,I1,3/13/2024,Oil Work,New Job Filing,2012632,740 EAST 178 STREET,206,BRONX,12/31/2025,Active,40.84529,-73.88927
+219,Temporary DOB registered oil fired mobile boiler,X01042157-I1-LA,I1,4/26/2024,Oil Work,New Job Filing,2091982,747 EAST 168 STREET,203,BRONX,1/1/2026,Active,40.82965,-73.90122
+220,Temporary DOB registered oil fired mobile boiler,X01089930-I1-LA,I1,8/1/2024,Oil Work,New Job Filing,2092284,665 EAST 181 STREET,206,BRONX,6/24/2026,Active,40.84982,-73.88834
+221,Temporary DOB registered oil fired mobile boiler,X01115866-I1-LA,I1,9/23/2024,Oil Work,New Job Filing,2013329,2255 WEBSTER AVENUE,205,BRONX,12/31/2025,Active,40.85593,-73.89624
+222,Temporary DOB registered oil fired mobile boiler,X01154097-I1-LA,I1,12/11/2024,Oil Work,New Job Filing,2102055,465 EAST FORDHAM ROAD,206,BRONX,12/11/2025,Active,40.86163,-73.88533
+223,Temporary DOB registered oil fired mobile boiler,X01157235-I1-LA,I1,12/17/2024,Oil Work,New Job Filing,2016300,2985 BOTANICAL SQUARE,207,BRONX,12/18/2025,Active,40.86766,-73.8823
+224,Temporary DOB registered oil fired mobile boiler,X01157270-I1-LA,I1,12/17/2024,Oil Work,New Job Filing,2016301,2995 BOTANICAL SQUARE,207,BRONX,12/18/2025,Active,40.86791,-73.88188
+225,Temporary DOB registered oil fired mobile boiler,X01159916-I1-LA,I1,12/24/2024,Oil Work,New Job Filing,2001648,1215 BROOK AVENUE,203,BRONX,12/24/2025,Active,40.83163,-73.90923
+226,Temporary DOB registered oil fired mobile boiler,X01169643-I1-LA,I1,1/21/2025,Oil Work,New Job Filing,2091294,354 CYPRESS AVENUE,201,BRONX,12/31/2025,Active,40.80867,-73.91248
+227,Temporary DOB registered oil fired mobile boiler,X01180052-I1-LA,I1,2/12/2025,Oil Work,New Job Filing,2092063,1928 UNIVERSITY AVENUE,205,BRONX,12/31/2025,Active,40.85331,-73.91199
+228,Temporary DOB registered oil fired mobile boiler,X01182259-I1-LA,I1,2/17/2025,Oil Work,New Job Filing,2010300,1555 SEABURY PLACE,203,BRONX,12/31/2025,Active,40.83551,-73.89129
+229,Temporary DOB registered oil fired mobile boiler,X01192740-I1-LA,I1,3/10/2025,Oil Work,New Job Filing,2002327,1245 FINDLAY AVENUE,204,BRONX,1/4/2026,Active,40.83393,-73.91199
+230,Temporary DOB registered oil fired mobile boiler,X01221674-I1-LA,I1,5/6/2025,Oil Work,New Job Filing,2008602,1878 HARRISON AVENUE,205,BRONX,3/30/2026,Active,40.85192,-73.9121
+231,Temporary DOB registered oil fired mobile boiler,X01229205-I1-LA,I1,5/20/2025,Oil Work,New Job Filing,2093876,3475 BIVONA STREET,212,BRONX,12/31/2025,Active,40.88232,-73.83402
+232,Temporary DOB registered oil fired mobile boiler,X01238484-I1-LA,I1,6/9/2025,Oil Work,New Job Filing,2091098,340 ALEXANDER AVENUE,201,BRONX,5/1/2026,Active,40.81211,-73.92216
+233,Temporary DOB registered oil fired mobile boiler,X01240537-I1-LA,I1,6/12/2025,Oil Work,New Job Filing,2001152,510 EAST 156 STREET,201,BRONX,6/12/2026,Active,40.819,-73.91146
+234,Temporary DOB registered oil fired mobile boiler,X01240537-I1-LA,I1,6/12/2025,Oil Work,New Job Filing,2001152,510 EAST 156 STREET,201,BRONX,7/6/2026,Active,40.819,-73.91146
+235,Temporary DOB registered oil fired mobile boiler,X01250298-I1-LA,I1,7/2/2025,Oil Work,New Job Filing,2088351,480 EAST 185 STREET,206,BRONX,1/4/2026,Active,40.85616,-73.89193
+236,Temporary DOB registered oil fired mobile boiler,X01250610-I1-LA,I1,7/2/2025,Oil Work,New Job Filing,2017621,222 BEDFORD PARK BOULEVARD,207,BRONX,12/31/2025,Active,40.87132,-73.88744
+237,Temporary DOB registered oil fired mobile boiler,X01251306-I1-LA,I1,7/3/2025,Oil Work,New Job Filing,2013744,2051 GRAND CONCOURSE,205,BRONX,3/30/2026,Active,40.85286,-73.90391
+238,Temporary DOB registered oil fired mobile boiler,X01256452-I1-LA,I1,7/15/2025,Oil Work,New Job Filing,2016100,3881 SEDGWICK AVENUE,208,BRONX,12/31/2025,Active,40.88319,-73.89377
+239,Temporary DOB registered oil fired mobile boiler,X01257980-I1-LA,I1,7/18/2025,Oil Work,New Job Filing,2092761,1785 STORY AVENUE,209,BRONX,5/1/2026,Active,40.82371,-73.86538
+240,Temporary DOB registered oil fired mobile boiler,X01258019-I1-LA,I1,7/18/2025,Oil Work,New Job Filing,2092761,1785 STORY AVENUE,209,BRONX,5/1/2026,Active,40.82371,-73.86538
+241,Temporary DOB registered oil fired mobile boiler,X01258053-I1-LA,I1,7/18/2025,Oil Work,New Job Filing,2092761,1785 STORY AVENUE,209,BRONX,5/1/2026,Active,40.82371,-73.86538
+242,Temporary DOB registered oil fired mobile boiler,X01258909-I1-LA,I1,7/21/2025,Oil Work,New Job Filing,2092440,2660 BAILEY AVENUE,207,BRONX,12/31/2025,Active,40.86994,-73.9067
+243,Temporary DOB registered oil fired mobile boiler,X01260669-I1-LA,I1,7/23/2025,Oil Work,New Job Filing,2102474,3300 PALMER AVENUE,212,BRONX,3/30/2026,Active,40.87861,-73.83479
+244,Temporary DOB registered oil fired mobile boiler,X01281361-I1-LA,I1,9/3/2025,Oil Work,New Job Filing,2093361,840 ASTOR AVENUE,211,BRONX,8/27/2026,Active,40.8588,-73.86322
+245,Temporary DOB registered oil fired mobile boiler,X01285699-I1-LA,I1,9/11/2025,Oil Work,New Job Filing,2008226,1857 WALTON AVENUE,205,BRONX,12/31/2025,Active,40.84853,-73.90987
+246,Temporary DOB registered oil fired mobile boiler,X01298578-I1-LA,I1,10/6/2025,Oil Work,New Job Filing,2091140,205 ALEXANDER AVENUE,201,BRONX,8/27/2026,Active,40.80954,-73.92686
+247,Temporary DOB registered oil fired mobile boiler,X01299725-I1-LA,I1,10/8/2025,Oil Work,New Job Filing,2091140,205 ALEXANDER AVENUE,201,BRONX,8/27/2026,Active,40.80954,-73.92686
+248,Temporary DOB registered oil fired mobile boiler,X08022514-I1-LA,I1,10/17/2022,Oil Work,New Job Filing,2041247,1560 PURDY STREET,209,BRONX,5/1/2026,Active,40.83876,-73.8532
+249,Temporary DOB registered oil fired mobile boiler,X08043363-I1-LA,I1,11/21/2022,Oil Work,New Job Filing,2097038,360 EAST 145 STREET,201,BRONX,5/1/2026,Active,40.81357,-73.92078
+250,Temporary DOB registered oil fired mobile boiler,X08045261-I1-LA,I1,11/24/2022,Oil Work,New Job Filing,2002802,900 GRAND CONCOURSE,204,BRONX,1/4/2026,Active,40.82718,-73.9219
+251,Temporary Oil Tank (above ground),B00950145-I1-LA,I1,10/18/2023,Oil Work,New Job Filing,3029670,260 EASTERN PARKWAY,309,BROOKLYN,1/1/2026,Active,40.67068,-73.96082
+252,Temporary Oil Tank (above ground),B01074334-I1-LA,I1,6/29/2024,Oil Work,New Job Filing,3106599,532 ALBANY AVENUE,309,BROOKLYN,12/31/2025,Active,40.6618,-73.94071
+253,Temporary Oil Tank (above ground),B01303492-I1-LA,I1,10/15/2025,Oil Work,New Job Filing,3000080,11 FRONT STREET,302,BROOKLYN,12/31/2025,Active,40.70301,-73.99304
+254,Temporary Oil Tank (above ground),B01307108-I1-LA,I1,10/22/2025,Oil Work,New Job Filing,3330564,195 SOUTH 4 STREET,301,BROOKLYN,1/1/2026,Active,40.71114,-73.96021
+255,Temporary Oil Tank (above ground),M00423219-I1-LA,I1,11/3/2020,Oil Work,New Job Filing,1057699,2035 ADAM CLAYTON POWELL JR BOULEVARD,110,MANHATTAN,12/31/2025,Active,40.8067,-73.94949
+256,Temporary Oil Tank (above ground),M00427975-I1-LA,I1,11/13/2020,Oil Work,New Job Filing,1076285,45 EAST 66 STREET,108,MANHATTAN,3/14/2026,Active,40.76804,-73.9678
+257,Temporary Oil Tank (above ground),M00620884-I1-LA,I1,10/28/2021,Oil Work,New Job Filing,1079377,230 WEST 76 STREET,107,MANHATTAN,12/31/2025,Active,40.78156,-73.98166
+258,Temporary Oil Tank (above ground),M00812308-I1-LA,I1,1/12/2023,Oil Work,New Job Filing,1005203,500 EAST 13 STREET,103,MANHATTAN,12/18/2025,Active,40.72951,-73.98065
+259,Temporary Oil Tank (above ground),M00927093-I1-LA,I1,8/30/2023,Oil Work,New Job Filing,1077586,645 WATER STREET,103,MANHATTAN,12/31/2025,Active,40.71117,-73.98203
+260,Temporary Oil Tank (above ground),M01157539-I1-LA,I1,12/18/2024,Oil Work,New Job Filing,1014200,225 WEST 25 STREET,104,MANHATTAN,12/18/2025,Active,40.74603,-73.99565
+261,Temporary Oil Tank (above ground),M01165360-I1-LA,I1,1/10/2025,Oil Work,New Job Filing,1082712,420 WEST 24 STREET,104,MANHATTAN,12/31/2025,Active,40.74744,-74.00249
+262,Temporary Oil Tank (above ground),M01171350-I1-LA,I1,1/24/2025,Oil Work,New Job Filing,1062991,1150 ST NICHOLAS AVENUE,112,MANHATTAN,1/1/2026,Active,40.84039,-73.93906
+263,Temporary Oil Tank (above ground),M01176416-I1-LA,I1,2/4/2025,Oil Work,New Job Filing,1084127,1414 AMSTERDAM AVENUE,109,MANHATTAN,12/31/2025,Active,40.8168,-73.95544
+264,Temporary Oil Tank (above ground),M01213359-I1-LA,I1,4/21/2025,Oil Work,New Job Filing,1032539,110 WEST 94 STREET,107,MANHATTAN,1/1/2026,Active,40.79166,-73.96936
+265,Temporary Oil Tank (above ground),M01215334-I1-LA,I1,4/24/2025,Oil Work,New Job Filing,1072675,343 EAST 74 STREET,108,MANHATTAN,1/1/2026,Active,40.76977,-73.95574
+266,Temporary Oil Tank (above ground),M01220520-I1-LA,I1,5/5/2025,Oil Work,New Job Filing,1065063,91 PAYSON AVENUE,112,MANHATTAN,12/31/2025,Active,40.86787,-73.92648
+267,Temporary Oil Tank (above ground),M01240204-I1-LA,I1,6/16/2025,Oil Work,New Job Filing,1003215,35 MONTGOMERY STREET,103,MANHATTAN,12/31/2025,Active,40.7127,-73.98439
+268,Temporary Oil Tank (above ground),M01249005-I1-LA,I1,6/30/2025,Oil Work,New Job Filing,1033597,206 WEST 92 STREET,107,MANHATTAN,12/31/2025,Active,40.7916,-73.97309
+269,Temporary Oil Tank (above ground),M01258713-I1-LA,I1,7/21/2025,Oil Work,New Job Filing,1010150,25 CORNELIA STREET,102,MANHATTAN,12/31/2025,Active,40.73155,-74.00236
+270,Temporary Oil Tank (above ground),M01265244-I1-LA,I1,8/1/2025,Oil Work,New Job Filing,1079600,299 SOUTH STREET,103,MANHATTAN,12/31/2025,Active,40.70958,-73.98635
+271,Temporary Oil Tank (above ground),M01269661-I1-LA,I1,8/11/2025,Oil Work,New Job Filing,1028816,170 CENTRAL PARK WEST,107,MANHATTAN,5/1/2026,Active,40.7793,-73.97439
+272,Temporary Oil Tank (above ground),M01288606-I1-LA,I1,9/17/2025,Oil Work,New Job Filing,1015060,161 WEST 27 STREET,105,MANHATTAN,5/1/2026,Active,40.74664,-73.99338
+273,Temporary Oil Tank (above ground),M01299379-I1-LA,I1,10/7/2025,Oil Work,New Job Filing,1018070,125 EAST 24 STREET,105,MANHATTAN,12/31/2025,Active,40.74054,-73.98457
+274,Temporary Oil Tank (above ground),M08012411-I1-LA,I1,9/29/2022,Oil Work,New Job Filing,1039942,311 EAST 54 STREET,106,MANHATTAN,12/2/2025,Active,40.75734,-73.96601
+275,Temporary Oil Tank (above ground),Q01103310-I1-LA,I1,8/28/2024,Oil Work,New Job Filing,4119569,36-14 165 STREET,407,QUEENS,2/26/2026,Active,40.76248,-73.80115
+276,Temporary Oil Tank (above ground),Q01157491-I1-LA,I1,12/18/2024,Oil Work,New Job Filing,4458024,4500 PARSONS BOULEVARD,407,QUEENS,5/8/2026,Active,40.75562,-73.81687
+277,Temporary Oil Tank (above ground),Q01168318-I1-LA,I1,1/16/2025,Oil Work,New Job Filing,4445338,61-20 GRAND CENTRAL PARKWAY,406,QUEENS,12/31/2025,Active,40.73775,-73.84747
+278,Temporary Oil Tank (above ground),Q01176838-I1-LA,I1,2/5/2025,Oil Work,New Job Filing,4113859,14467 41 AVENUE,407,QUEENS,2/5/2026,Active,40.76157,-73.81892
+279,Temporary Oil Tank (above ground),Q01214697-I1-LA,I1,4/23/2025,Oil Work,New Job Filing,4010271,24-14 STEINWAY STREET,401,QUEENS,1/1/2026,Active,40.76869,-73.91132
+280,Temporary Oil Tank (above ground),Q01289796-I1-LA,I1,9/24/2025,Oil Work,New Job Filing,4457805,7400 SHORE FRONT PARKWAY,414,QUEENS,12/31/2025,Active,40.58761,-73.80297
+281,Temporary Oil Tank (above ground),Q01292300-I1-LA,I1,9/24/2025,Oil Work,New Job Filing,4445259,105-00 SHORE FRONT PARKWAY,414,QUEENS,12/31/2025,Active,40.58261,-73.824
+282,Temporary Oil Tank (above ground),X00810858-I1-LA,I1,1/10/2023,Oil Work,New Job Filing,2015404,2825 WEBB AVENUE,208,BRONX,12/31/2025,Active,40.87255,-73.90116
+283,Temporary Oil Tank (above ground),X01152980-I1-LA,I1,12/9/2024,Oil Work,New Job Filing,2102055,465 EAST FORDHAM ROAD,206,BRONX,12/9/2025,Active,40.86163,-73.88533
+284,Temporary Oil Tank (above ground),X01160432-I1-LA,I1,7/22/2025,Oil Work,New Job Filing,2084059,500 WEST 235 STREET,208,BRONX,5/8/2026,Active,40.88496,-73.90778
+285,Temporary Oil Tank (above ground),X01164911-I1-LA,I1,1/9/2025,Oil Work,New Job Filing,2047437,3108 WILKINSON AVENUE,210,BRONX,1/1/2026,Active,40.85145,-73.82877
+286,Temporary Oil Tank (above ground),X01243547-I1-LA,I1,6/18/2025,Oil Work,New Job Filing,2016364,2656 DECATUR AVENUE,207,BRONX,6/18/2026,Active,40.86403,-73.88931
+287,Temporary Oil Tank (above ground),X01256772-I1-LA,I1,7/16/2025,Oil Work,New Job Filing,2042466,1181 EAST TREMONT AVENUE,206,BRONX,1/1/2026,Active,40.84009,-73.87431
+288,Temporary Oil Tank (above ground),X01257277-I1-LA,I1,7/17/2025,Oil Work,New Job Filing,2008582,1804 HARRISON AVENUE,205,BRONX,7/6/2026,Active,40.85023,-73.91376
+289,Temporary Oil Tank (above ground),X01287973-I1-LA,I1,9/16/2025,Oil Work,New Job Filing,2097050,234 EAST 149 STREET,201,BRONX,5/1/2026,Active,40.81676,-73.92448
+290,Temporary Oil Tank (above ground),X01293242-I1-LA,I1,9/25/2025,Oil Work,New Job Filing,2092284,665 EAST 181 STREET,206,BRONX,6/24/2026,Active,40.84982,-73.88834
+291,Temporary Oil Tank (above ground),X01301786-I1-LA,I1,10/13/2025,Oil Work,New Job Filing,2097413,1 CARDINAL SPELLMAN PLACE,212,BRONX,6/24/2026,Active,40.88419,-73.84124
