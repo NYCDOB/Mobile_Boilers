@@ -73,19 +73,16 @@ tr.shown td.details-control {
 .pointGas{
 	fill: #962121;
 	fill-opacity: .7;
-	stroke: #fff;
 
 }
 .pointOil{
 	fill: #f28e2c;
 	fill-opacity: .7;
-	stroke: #fff;
 
 }
 .pointOilAbove{
 	fill: #2aafdb;
 	fill-opacity: .7;
-	stroke: #fff;
 
 }
 .zoomedPoint {
@@ -415,7 +412,7 @@ var width = $("#map").width(),
 		.on("mouseout", function(d, i){			
 			$(this).attr("style", "stroke-width: 0px; fill-opacity: .7;");
 		});
-		pointsUpd.attr('r', 6 / proj.scale);
+		pointsUpd.attr('r', 7 / proj.scale);
 		
 			var gasSlider = document.querySelector('input[id="chkGas"]');
 				oilSlider = document.querySelector('input[id="chkOil"]');
@@ -682,4 +679,5 @@ var width = $("#map").width(),
 });	
 </script>
 </body>
+
 </html>
