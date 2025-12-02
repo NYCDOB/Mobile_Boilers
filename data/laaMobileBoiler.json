@@ -6497,7 +6497,7 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
+	"JFNPermitNumber": "X01324397-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2025/11/25 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -13455,6 +13455,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Q01326863-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/12/1 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4464056",
+	"Address": "14 UNITED NATIONS AVENUE SOUTH",
+	"CommunityBoardNumber": "481",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.84333,
+	"Latitude": 40.74726
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Q00703019-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/3/21 12:00:00",
@@ -13466,34 +13480,6 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.94174,
 	"Latitude": 40.74679
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "S00804973-I1-LA",
-	"FilingNumber": "I1",
-	"Created On Date": "2022/12/28 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "5000083",
-	"Address": "100 STUYVESANT PLACE",
-	"CommunityBoardNumber": "501",
-	"LocationBoroughName": "STATEN ISLAND",
-	"Longitude": -74.07796,
-	"Latitude": 40.64367
- },
- {
-	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "S08022675-I1-LA",
-	"FilingNumber": "I1",
-	"Created On Date": "2022/10/18 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "5001150",
-	"Address": "55 LAYTON AVENUE",
-	"CommunityBoardNumber": "501",
-	"LocationBoroughName": "STATEN ISLAND",
-	"Longitude": -74.08546,
-	"Latitude": 40.64203
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -13888,6 +13874,48 @@
 	"Latitude": 40.71907
  },
  {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "S00804973-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2022/12/28 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "5000083",
+	"Address": "100 STUYVESANT PLACE",
+	"CommunityBoardNumber": "501",
+	"LocationBoroughName": "STATEN ISLAND",
+	"Longitude": -74.07796,
+	"Latitude": 40.64367
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "S08022675-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2022/10/18 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "5001150",
+	"Address": "55 LAYTON AVENUE",
+	"CommunityBoardNumber": "501",
+	"LocationBoroughName": "STATEN ISLAND",
+	"Longitude": -74.08546,
+	"Latitude": 40.64203
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "S00907113-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2023/7/27 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "5008970",
+	"Address": "1000 CLOVE ROAD",
+	"CommunityBoardNumber": "501",
+	"LocationBoroughName": "STATEN ISLAND",
+	"Longitude": -74.10983,
+	"Latitude": 40.62011
+ },
+ {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "S01052178-I1-LA",
 	"FilingNumber": "I1",
@@ -13931,20 +13959,6 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
-	"JFNPermitNumber": "S00907113-I1-LA",
-	"FilingNumber": "I1",
-	"Created On Date": "2023/7/27 12:00:00",
-	"Work Type Name": "Oil Work",
-	"Filing Type Name": "New Job Filing",
-	"LocationBIN": "5008970",
-	"Address": "1000 CLOVE ROAD",
-	"CommunityBoardNumber": "501",
-	"LocationBoroughName": "STATEN ISLAND",
-	"Longitude": -74.10983,
-	"Latitude": 40.62011
- },
- {
-	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "Q00709815-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/3/31 12:00:00",
@@ -13956,6 +13970,20 @@
 	"LocationBoroughName": "QUEENS",
 	"Longitude": -73.79455,
 	"Latitude": 40.70029
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "Q01326863-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/12/1 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4464056",
+	"Address": "14 UNITED NATIONS AVENUE SOUTH",
+	"CommunityBoardNumber": "481",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.84333,
+	"Latitude": 40.74726
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
@@ -15751,7 +15779,7 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
-	"JFNPermitNumber": "Permit Not Yet Issued",
+	"JFNPermitNumber": "M01325201-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2025/11/26 12:00:00",
 	"Work Type Name": "Oil Work",
