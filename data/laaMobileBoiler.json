@@ -11173,6 +11173,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2025/12/17 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "3402532",
+	"Address": "701 WILLOUGHBY AVENUE",
+	"CommunityBoardNumber": "303",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.94108,
+	"Latitude": 40.69503
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B01331545-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2025/12/9 12:00:00",
