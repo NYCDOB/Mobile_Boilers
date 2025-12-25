@@ -155,7 +155,7 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
+	"JFNPermitNumber": "M01336602-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2025/12/18 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -4971,6 +4971,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/12/24 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1077554",
+	"Address": "749 FDR DRIVE",
+	"CommunityBoardNumber": "103",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.97546,
+	"Latitude": 40.72274
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M00927830-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2023/8/31 12:00:00",
@@ -8832,6 +8846,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.90334,
 	"Latitude": 40.85635
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01339622-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2025/12/24 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2131120",
+	"Address": "200 EAST  138 STREET",
+	"CommunityBoardNumber": "201",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.92967,
+	"Latitude": 40.81213
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
