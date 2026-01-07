@@ -14687,6 +14687,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "Q01342962-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/1/6 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4067005",
+	"Address": "61-21 71 STREET",
+	"CommunityBoardNumber": "405",
+	"LocationBoroughName": "QUEENS",
+	"Longitude": -73.88603,
+	"Latitude": 40.72107
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "Q00960074-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2023/11/8 12:00:00",
