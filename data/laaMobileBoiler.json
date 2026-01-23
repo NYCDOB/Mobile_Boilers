@@ -3417,7 +3417,7 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
+	"JFNPermitNumber": "M01347663-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2026/1/16 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -7132,6 +7132,20 @@
 	"Created On Date": "2026/1/12 12:00:00",
 	"Work Type Name": "Oil Work",
 	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2009055",
+	"Address": "1895 UNIVERSITY AVENUE",
+	"CommunityBoardNumber": "205",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.91337,
+	"Latitude": 40.85295
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2026/1/22 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
 	"LocationBIN": "2009055",
 	"Address": "1895 UNIVERSITY AVENUE",
 	"CommunityBoardNumber": "205",
@@ -14390,6 +14404,20 @@
 	"LocationBoroughName": "STATEN ISLAND",
 	"Longitude": -74.16401,
 	"Latitude": 40.60935
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "S01350270-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/1/22 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "5109239",
+	"Address": "40 PARK HILL AVENUE",
+	"CommunityBoardNumber": "501",
+	"LocationBoroughName": "STATEN ISLAND",
+	"Longitude": -74.07819,
+	"Latitude": 40.61843
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
