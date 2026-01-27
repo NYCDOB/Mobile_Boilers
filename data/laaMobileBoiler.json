@@ -7995,6 +7995,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01351184-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/1/26 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2023765",
+	"Address": "1165 EVERGREEN AVENUE",
+	"CommunityBoardNumber": "209",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.88112,
+	"Latitude": 40.82749
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X00935589-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2023/9/18 12:00:00",
