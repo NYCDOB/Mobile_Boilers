@@ -11649,6 +11649,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/2/5 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3327730",
+	"Address": "394 LENOX ROAD",
+	"CommunityBoardNumber": "317",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.94647,
+	"Latitude": 40.65377
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B00909905-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2023/7/26 12:00:00",
