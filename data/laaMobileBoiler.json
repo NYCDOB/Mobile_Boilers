@@ -10067,6 +10067,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/2/6 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3049204",
+	"Address": "281 THROOP AVENUE",
+	"CommunityBoardNumber": "303",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.94283,
+	"Latitude": 40.69405
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B00747926-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/5/31 12:00:00",
@@ -11649,7 +11663,7 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
+	"JFNPermitNumber": "B01356421-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2026/2/5 12:00:00",
 	"Work Type Name": "Oil Work",
