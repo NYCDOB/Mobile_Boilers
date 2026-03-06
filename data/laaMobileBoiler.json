@@ -3851,6 +3851,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/3/5 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1029969",
+	"Address": "105 WEST   72 STREET",
+	"CommunityBoardNumber": "107",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.97908,
+	"Latitude": 40.77785
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M00885602-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2023/6/6 12:00:00",
@@ -8888,6 +8902,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.91337,
 	"Latitude": 40.85295
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01367964-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/3/5 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2009058",
+	"Address": "1865 UNIVERSITY AVENUE",
+	"CommunityBoardNumber": "205",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.91437,
+	"Latitude": 40.85203
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -16927,7 +16955,7 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
-	"JFNPermitNumber": "Permit Not Yet Issued",
+	"JFNPermitNumber": "S01362377-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2026/2/19 12:00:00",
 	"Work Type Name": "Oil Work",
