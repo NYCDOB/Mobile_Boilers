@@ -3417,6 +3417,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01369680-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/3/10 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1026485",
+	"Address": "437 WEST   46 STREET",
+	"CommunityBoardNumber": "104",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -73.99211,
+	"Latitude": 40.76179
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M00986263-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2024/1/5 12:00:00",
@@ -15846,6 +15860,20 @@
 	"LocationBoroughName": "MANHATTAN",
 	"Longitude": -73.97781,
 	"Latitude": 40.71743
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M01369950-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/3/10 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1079143",
+	"Address": "1 POLICE PLAZA",
+	"CommunityBoardNumber": "101",
+	"LocationBoroughName": "MANHATTAN",
+	"Longitude": -74.00179,
+	"Latitude": 40.71221
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
