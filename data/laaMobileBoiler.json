@@ -10543,6 +10543,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/3/19 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2091924",
+	"Address": "600 WEST  246 STREET",
+	"CommunityBoardNumber": "208",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.91097,
+	"Latitude": 40.89158
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X01042157-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2024/4/26 12:00:00",
