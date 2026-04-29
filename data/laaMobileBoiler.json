@@ -10053,6 +10053,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B01393894-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/4/28 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3326146",
+	"Address": "143 PALMETTO STREET",
+	"CommunityBoardNumber": "304",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.91821,
+	"Latitude": 40.69282
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B01312622-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2025/11/3 12:00:00",
@@ -16854,6 +16868,20 @@
 	"LocationBoroughName": "BRONX",
 	"Longitude": -73.90116,
 	"Latitude": 40.87255
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "X01394025-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/4/28 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2013980",
+	"Address": "62 EAST  182 STREET",
+	"CommunityBoardNumber": "205",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.90313,
+	"Latitude": 40.8567
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
