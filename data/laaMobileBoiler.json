@@ -1569,7 +1569,7 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
+	"JFNPermitNumber": "B01411725-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2026/6/3 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -12391,7 +12391,7 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
+	"JFNPermitNumber": "X01411694-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2026/6/3 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -16157,6 +16157,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "X01412262-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/6/4 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2008096",
+	"Address": "1405 TOWNSEND AVENUE",
+	"CommunityBoardNumber": "204",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.91687,
+	"Latitude": 40.84019
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "X08021487-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/10/14 12:00:00",
@@ -17851,7 +17865,7 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
-	"JFNPermitNumber": "Permit Not Yet Issued",
+	"JFNPermitNumber": "B01411725-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2026/6/3 12:00:00",
 	"Work Type Name": "Oil Work",
