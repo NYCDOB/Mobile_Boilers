@@ -12545,6 +12545,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01416226-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/6/12 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2008733",
+	"Address": "1419 SHAKESPEARE AVENUE",
+	"CommunityBoardNumber": "204",
+	"LocationBoroughName": "BRONX",
+	"Longitude": -73.92117,
+	"Latitude": 40.84254
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X01410687-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2026/6/2 12:00:00",
