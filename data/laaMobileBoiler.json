@@ -1219,6 +1219,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B01420181-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/6/22 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3029579",
+	"Address": "540 ST JOHNS PLACE",
+	"CommunityBoardNumber": "308",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.9602,
+	"Latitude": 40.67273
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B00535480-S1-LA",
 	"FilingNumber": "S1",
 	"Created On Date": "2022/2/4 12:00:00",
@@ -1804,6 +1818,20 @@
 	"LocationBoroughName": "BROOKLYN",
 	"Longitude": -73.95908,
 	"Latitude": 40.71102
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "B01420050-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/6/22 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3116367",
+	"Address": "1110 CATON AVENUE",
+	"CommunityBoardNumber": "314",
+	"LocationBoroughName": "BROOKLYN",
+	"Longitude": -73.96926,
+	"Latitude": 40.64877
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
