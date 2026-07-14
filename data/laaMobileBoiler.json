@@ -10963,6 +10963,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/7/13 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2002825",
+	"Address": "1011 SHERIDAN AVENUE",
+	"CommunityBoardNumber": "204",
+	"LocationBoroughName": "Bronx",
+	"Longitude": -73.9198,
+	"Latitude": 40.82955
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X07997193-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/9/1 12:00:00",
