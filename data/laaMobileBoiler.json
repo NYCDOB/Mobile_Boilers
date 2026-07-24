@@ -13651,6 +13651,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "",
+	"FilingNumber": "P1",
+	"Created On Date": "2026/7/23 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "PAA",
+	"LocationBIN": "3155912",
+	"Address": "9747 SHORE ROAD",
+	"CommunityBoardNumber": "310",
+	"LocationBoroughName": "Brooklyn",
+	"Longitude": -74.03677,
+	"Latitude": 40.61417
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B00718984-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/4/14 12:00:00",
