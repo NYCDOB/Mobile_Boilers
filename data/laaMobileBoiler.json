@@ -10025,6 +10025,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/7/27 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2013241",
+	"Address": "946 BRONX PARK SOUTH",
+	"CommunityBoardNumber": "206",
+	"LocationBoroughName": "Bronx",
+	"Longitude": -73.87963,
+	"Latitude": 40.84528
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X01344564-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2026/1/9 12:00:00",
