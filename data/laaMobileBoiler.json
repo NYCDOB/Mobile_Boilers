@@ -13091,6 +13091,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/8/3 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3099098",
+	"Address": "457 SCHENECTADY AVENUE",
+	"CommunityBoardNumber": "309",
+	"LocationBoroughName": "Brooklyn",
+	"Longitude": -73.9341,
+	"Latitude": 40.66223
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "B00986855-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2024/1/8 12:00:00",
