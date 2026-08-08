@@ -5503,6 +5503,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/8/7 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1053262",
+	"Address": "2 WEST  120 STREET",
+	"CommunityBoardNumber": "110",
+	"LocationBoroughName": "Manhattan",
+	"Longitude": -73.94509,
+	"Latitude": 40.80318
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M00811744-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2023/1/12 12:00:00",
@@ -6172,6 +6186,20 @@
 	"LocationBoroughName": "Manhattan",
 	"Longitude": -73.93864,
 	"Latitude": 40.81788
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/8/7 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1060097",
+	"Address": "148 WEST  142 STREET",
+	"CommunityBoardNumber": "110",
+	"LocationBoroughName": "Manhattan",
+	"Longitude": -73.93983,
+	"Latitude": 40.81919
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
@@ -10232,6 +10260,20 @@
 	"LocationBoroughName": "Bronx",
 	"Longitude": -73.90391,
 	"Latitude": 40.85286
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/8/7 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2013759",
+	"Address": "2195 GRAND CONCOURSE",
+	"CommunityBoardNumber": "205",
+	"LocationBoroughName": "Bronx",
+	"Longitude": -73.90141,
+	"Latitude": 40.85592
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
