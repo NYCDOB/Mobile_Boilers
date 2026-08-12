@@ -155,6 +155,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/8/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "4114663",
+	"Address": "41-08 PARSONS BOULEVARD",
+	"CommunityBoardNumber": "407",
+	"LocationBoroughName": "Queens",
+	"Longitude": -73.82174,
+	"Latitude": 40.76019
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "Q00796036-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/8/18 12:00:00",
