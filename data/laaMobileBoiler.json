@@ -5265,7 +5265,7 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
+	"JFNPermitNumber": "M01448366-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2026/8/23 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -11481,6 +11481,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01453293-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/8/31 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2008011",
+	"Address": "1540 WALTON AVENUE",
+	"CommunityBoardNumber": "204",
+	"LocationBoroughName": "Bronx",
+	"Longitude": -73.91344,
+	"Latitude": 40.84249
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X08044395-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2022/11/22 12:00:00",
@@ -12909,7 +12923,7 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
+	"JFNPermitNumber": "X01449833-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2026/8/21 12:00:00",
 	"Work Type Name": "Oil Work",
