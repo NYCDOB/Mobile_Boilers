@@ -17039,6 +17039,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M01454641-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/9/2 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1080669",
+	"Address": "2029 2 AVENUE",
+	"CommunityBoardNumber": "111",
+	"LocationBoroughName": "Manhattan",
+	"Longitude": -73.94395,
+	"Latitude": 40.78981
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "Permit Not Yet Issued",
 	"FilingNumber": "I1",
 	"Created On Date": "2023/5/3 12:00:00",
