@@ -3697,7 +3697,7 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
+	"JFNPermitNumber": "M01474577-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2026/10/14 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -5573,7 +5573,7 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
+	"JFNPermitNumber": "M01472114-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2026/10/8 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -17490,6 +17490,20 @@
 	"JFNPermitNumber": "B01303492-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2025/10/15 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "3000080",
+	"Address": "11 FRONT STREET",
+	"CommunityBoardNumber": "302",
+	"LocationBoroughName": "Brooklyn",
+	"Longitude": -73.99304,
+	"Latitude": 40.70301
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "B01476358-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/10/19 12:00:00",
 	"Work Type Name": "Oil Work",
 	"Filing Type Name": "New Job Filing",
 	"LocationBIN": "3000080",
