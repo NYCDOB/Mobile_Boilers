@@ -2045,6 +2045,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/10/22 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1026457",
+	"Address": "663 9 AVENUE",
+	"CommunityBoardNumber": "104",
+	"LocationBoroughName": "Manhattan",
+	"Longitude": -73.99111,
+	"Latitude": 40.76101
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M00992327-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2024/1/18 12:00:00",
@@ -11504,8 +11518,8 @@
 	"Address": "89 WALWORTH STREET",
 	"CommunityBoardNumber": "303",
 	"LocationBoroughName": "Brooklyn",
-	"Longitude": -73.95432,
-	"Latitude": 40.6962
+	"Longitude": -73.95433,
+	"Latitude": 40.69623
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
