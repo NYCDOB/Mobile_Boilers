@@ -6329,6 +6329,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "Permit Not Yet Issued",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/10/30 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1077647",
+	"Address": "147 AVENUE A",
+	"CommunityBoardNumber": "103",
+	"LocationBoroughName": "Manhattan",
+	"Longitude": -73.98283,
+	"Latitude": 40.72755
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M01170553-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2025/1/22 12:00:00",
@@ -7841,7 +7855,7 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
+	"JFNPermitNumber": "X01479255-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2026/10/23 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -12587,7 +12601,7 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
+	"JFNPermitNumber": "B01481391-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2026/10/28 12:00:00",
 	"Work Type Name": "Oil Work",
