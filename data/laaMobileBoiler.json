@@ -18103,6 +18103,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "X01484432-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/11/3 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2014003",
+	"Address": "2310 WALTON AVENUE",
+	"CommunityBoardNumber": "205",
+	"LocationBoroughName": "Bronx",
+	"Longitude": -73.90226,
+	"Latitude": 40.85874
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "X01257277-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2025/7/17 12:00:00",
