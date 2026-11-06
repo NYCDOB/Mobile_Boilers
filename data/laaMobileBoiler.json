@@ -141,7 +141,7 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
-	"JFNPermitNumber": "Permit Not Yet Issued",
+	"JFNPermitNumber": "M01412089-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2026/10/7 12:00:00",
 	"Work Type Name": "Oil Work",
@@ -7726,6 +7726,20 @@
 	"LocationBoroughName": "Bronx",
 	"Longitude": -73.9243,
 	"Latitude": 40.84175
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01485346-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/11/5 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2003404",
+	"Address": "1345 PLIMPTON AVENUE",
+	"CommunityBoardNumber": "204",
+	"LocationBoroughName": "Bronx",
+	"Longitude": -73.9241,
+	"Latitude": 40.84143
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
