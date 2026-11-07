@@ -281,6 +281,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01486396-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/11/6 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1007381",
+	"Address": "554 BROOME STREET",
+	"CommunityBoardNumber": "102",
+	"LocationBoroughName": "Manhattan",
+	"Longitude": -74.00542,
+	"Latitude": 40.72454
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M00955557-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2023/10/30 12:00:00",
@@ -9532,6 +9546,20 @@
 	"LocationBoroughName": "Bronx",
 	"Longitude": -73.88112,
 	"Latitude": 40.82749
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01486452-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/11/6 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2024304",
+	"Address": "1160 BEACH AVENUE",
+	"CommunityBoardNumber": "209",
+	"LocationBoroughName": "Bronx",
+	"Longitude": -73.86549,
+	"Latitude": 40.82933
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
