@@ -3263,6 +3263,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "M01486860-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/11/9 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1045322",
+	"Address": "403 EAST   62 STREET",
+	"CommunityBoardNumber": "108",
+	"LocationBoroughName": "Manhattan",
+	"Longitude": -73.95998,
+	"Latitude": 40.76147
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "M01179443-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2025/2/11 12:00:00",
