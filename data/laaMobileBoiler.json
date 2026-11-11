@@ -19321,6 +19321,20 @@
  },
  {
 	"Item Type Name": "Temporary Oil Tank (above ground)",
+	"JFNPermitNumber": "M01487902-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/11/10 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "1024919",
+	"Address": "210 CENTRAL PARK SOUTH",
+	"CommunityBoardNumber": "105",
+	"LocationBoroughName": "Manhattan",
+	"Longitude": -73.98002,
+	"Latitude": 40.76696
+ },
+ {
+	"Item Type Name": "Temporary Oil Tank (above ground)",
 	"JFNPermitNumber": "M00952627-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2023/10/24 12:00:00",
