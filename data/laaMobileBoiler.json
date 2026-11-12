@@ -8177,6 +8177,20 @@
  },
  {
 	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
+	"JFNPermitNumber": "X01488219-I1-LA",
+	"FilingNumber": "I1",
+	"Created On Date": "2026/11/11 12:00:00",
+	"Work Type Name": "Oil Work",
+	"Filing Type Name": "New Job Filing",
+	"LocationBIN": "2006460",
+	"Address": "1314 SENECA AVENUE",
+	"CommunityBoardNumber": "202",
+	"LocationBoroughName": "Bronx",
+	"Longitude": -73.88701,
+	"Latitude": 40.81869
+ },
+ {
+	"Item Type Name": "Temporary DOB registered oil fired mobile boiler",
 	"JFNPermitNumber": "X00920684-I1-LA",
 	"FilingNumber": "I1",
 	"Created On Date": "2023/8/16 12:00:00",
